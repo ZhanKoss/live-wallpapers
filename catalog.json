@@ -50,19 +50,13 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/layered_glitch_breach.mp4",
       "thumb": "thumbs/layered_glitch_breach.jpg",
       "preview": "previews/layered_glitch_breach.webp",
-      "size": 15028731,
+      "size": 2429870,
       "added": "2026-09-27",
       "layers": [
         {
           "type": "video",
-          "depth": -0.5,
+          "depth": -0.35,
           "blend": "normal",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/layered_glitch_breach__far.mp4"
-        },
-        {
-          "type": "video",
-          "depth": 0.35,
-          "blend": "add",
           "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/layered_glitch_breach__mid.mp4"
         },
         {
