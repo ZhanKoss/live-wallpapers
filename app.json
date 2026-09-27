@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "4.8",
-  "apk": "https://github.com/ZhanKoss/live-wallpapers/releases/download/v4.8/Alivepaper.apk",
-  "notes": "Превью грузятся быстрее и не зависают, обновлённые обои перекачиваются сами, «Взлом» под OLED"
+  "versionCode": 13,
+  "versionName": "4.9",
+  "apk": "https://github.com/ZhanKoss/live-wallpapers/releases/download/v4.9/Alivepaper.apk",
+  "notes": "Раздел «Космос»: 91 видео телескопов Хаббл и Уэбб, указание авторов"
 }
