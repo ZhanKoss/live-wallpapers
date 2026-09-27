@@ -6,6 +6,10 @@
       "title": "IT"
     },
     {
+      "id": "cyber",
+      "title": "Киберпанк"
+    },
+    {
       "id": "anime",
       "title": "Аниме"
     },
@@ -392,6 +396,39 @@
       "size": 5396906,
       "added": "2026-09-27",
       "preview": "previews/it_cyber_glasses.webp"
+    },
+    {
+      "id": "cyber_rain_alley",
+      "title": "Неоновый переулок",
+      "category": "cyber",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/cyber_rain_alley.mp4",
+      "thumb": "thumbs/cyber_rain_alley.jpg",
+      "preview": "previews/cyber_rain_alley.webp",
+      "size": 1518901,
+      "rev": "ee797af87a",
+      "added": "2026-09-27"
+    },
+    {
+      "id": "cyber_skyline",
+      "title": "Город будущего",
+      "category": "cyber",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/cyber_skyline.mp4",
+      "thumb": "thumbs/cyber_skyline.jpg",
+      "preview": "previews/cyber_skyline.webp",
+      "size": 3945128,
+      "rev": "6251c6273d",
+      "added": "2026-09-27"
+    },
+    {
+      "id": "cyber_server_hall",
+      "title": "Серверный зал",
+      "category": "cyber",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/cyber_server_hall.mp4",
+      "thumb": "thumbs/cyber_server_hall.jpg",
+      "preview": "previews/cyber_server_hall.webp",
+      "size": 2364194,
+      "rev": "96100184b1",
+      "added": "2026-09-27"
     },
     {
       "id": "ai_anime_tokyo_rain",
