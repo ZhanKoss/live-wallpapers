@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "4.6",
-  "apk": "https://github.com/ZhanKoss/live-wallpapers/releases/download/v4.6/Alivepaper.apk",
-  "notes": "Параллакс от наклона телефона: у ИИ-обоев с настоящей глубиной"
+  "versionCode": 11,
+  "versionName": "4.7",
+  "apk": "https://github.com/ZhanKoss/live-wallpapers/releases/download/v4.7/Alivepaper.apk",
+  "notes": "Объёмный параллакс из слоёв без дублей, живой параллакс в предпросмотре, обои «Взлом»"
 }
