@@ -12,6 +12,51 @@
   ],
   "wallpapers": [
     {
+      "id": "it_katakana",
+      "title": "Матрица: катакана",
+      "category": "it",
+      "video": "videos/it_katakana.mp4",
+      "thumb": "thumbs/it_katakana.jpg",
+      "size": 6218598,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "it_blue_matrix",
+      "title": "Синяя матрица",
+      "category": "it",
+      "video": "videos/it_blue_matrix.mp4",
+      "thumb": "thumbs/it_blue_matrix.jpg",
+      "size": 6645337,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "it_hacker",
+      "title": "Хакерский терминал",
+      "category": "it",
+      "video": "videos/it_hacker.mp4",
+      "thumb": "thumbs/it_hacker.jpg",
+      "size": 8262438,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "it_binary3d",
+      "title": "Бинарный дождь 3D",
+      "category": "it",
+      "video": "videos/it_binary3d.mp4",
+      "thumb": "thumbs/it_binary3d.jpg",
+      "size": 4187497,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "it_hexdump",
+      "title": "Дамп памяти",
+      "category": "it",
+      "video": "videos/it_hexdump.mp4",
+      "thumb": "thumbs/it_hexdump.jpg",
+      "size": 11738572,
+      "added": "2026-09-27"
+    },
+    {
       "id": "it_matrix",
       "title": "Матрица",
       "category": "it",
