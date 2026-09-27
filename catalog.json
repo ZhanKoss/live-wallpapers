@@ -48,6 +48,37 @@
   ],
   "wallpapers": [
     {
+      "id": "error_screen",
+      "title": "ERROR!",
+      "category": "it",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/error_screen.mp4",
+      "thumb": "thumbs/error_screen.jpg",
+      "preview": "previews/error_screen.webp",
+      "size": 5288807,
+      "rev": "000e55e451",
+      "added": "2026-09-28",
+      "layers": [
+        {
+          "type": "video",
+          "depth": -0.35,
+          "blend": "normal",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/error_screen__far.mp4"
+        },
+        {
+          "type": "video",
+          "depth": 0.4,
+          "blend": "add",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/error_screen__mid.mp4"
+        },
+        {
+          "type": "video",
+          "depth": 1.0,
+          "blend": "add",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/error_screen__near.mp4"
+        }
+      ]
+    },
+    {
       "id": "glitch_jump_red",
       "title": "Глитч-код",
       "category": "it",
