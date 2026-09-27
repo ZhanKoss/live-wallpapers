@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "4.2",
-  "apk": "https://github.com/ZhanKoss/live-wallpapers/releases/download/v4.2/Alivepaper.apk",
-  "notes": "Новый логотип Alivepaper"
+  "versionCode": 7,
+  "versionName": "4.3",
+  "apk": "https://github.com/ZhanKoss/live-wallpapers/releases/download/v4.3/Alivepaper.apk",
+  "notes": "Обои двигаются прямо в списке, постраничная загрузка каталога"
 }
