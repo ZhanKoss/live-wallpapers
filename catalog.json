@@ -48,6 +48,37 @@
   ],
   "wallpapers": [
     {
+      "id": "glitch_words_red",
+      "title": "Глитч ZHANDOS",
+      "category": "it",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/glitch_words_red.mp4",
+      "thumb": "thumbs/glitch_words_red.jpg",
+      "preview": "previews/glitch_words_red.webp",
+      "size": 1941818,
+      "rev": "7996f361a3",
+      "added": "2026-09-28",
+      "layers": [
+        {
+          "type": "video",
+          "depth": -0.4,
+          "blend": "normal",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/glitch_words_red__far.mp4"
+        },
+        {
+          "type": "video",
+          "depth": 0.35,
+          "blend": "add",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/glitch_words_red__mid.mp4"
+        },
+        {
+          "type": "video",
+          "depth": 1.0,
+          "blend": "add",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/glitch_words_red__near.mp4"
+        }
+      ]
+    },
+    {
       "id": "itf_circuit_red",
       "title": "Импульсы платы",
       "category": "it",
