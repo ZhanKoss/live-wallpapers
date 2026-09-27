@@ -46,7 +46,8 @@
       "video": "videos/it_katakana.mp4",
       "thumb": "thumbs/it_katakana.jpg",
       "size": 6218598,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/it_katakana.webp"
     },
     {
       "id": "it_blue_matrix",
@@ -55,7 +56,8 @@
       "video": "videos/it_blue_matrix.mp4",
       "thumb": "thumbs/it_blue_matrix.jpg",
       "size": 6645337,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/it_blue_matrix.webp"
     },
     {
       "id": "it_hacker",
@@ -64,7 +66,8 @@
       "video": "videos/it_hacker.mp4",
       "thumb": "thumbs/it_hacker.jpg",
       "size": 8262438,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/it_hacker.webp"
     },
     {
       "id": "it_binary3d",
@@ -73,7 +76,8 @@
       "video": "videos/it_binary3d.mp4",
       "thumb": "thumbs/it_binary3d.jpg",
       "size": 4187497,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/it_binary3d.webp"
     },
     {
       "id": "it_hexdump",
@@ -82,7 +86,8 @@
       "video": "videos/it_hexdump.mp4",
       "thumb": "thumbs/it_hexdump.jpg",
       "size": 11738572,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/it_hexdump.webp"
     },
     {
       "id": "it_matrix",
@@ -91,7 +96,8 @@
       "video": "videos/it_matrix.mp4",
       "thumb": "thumbs/it_matrix.jpg",
       "size": 6554788,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/it_matrix.webp"
     },
     {
       "id": "it_network",
@@ -100,7 +106,8 @@
       "video": "videos/it_network.mp4",
       "thumb": "thumbs/it_network.jpg",
       "size": 14490263,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/it_network.webp"
     },
     {
       "id": "it_terminal",
@@ -109,7 +116,8 @@
       "video": "videos/it_terminal.mp4",
       "thumb": "thumbs/it_terminal.jpg",
       "size": 8533559,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/it_terminal.webp"
     },
     {
       "id": "it_control_room",
@@ -118,7 +126,8 @@
       "video": "videos/it_control_room.mp4",
       "thumb": "thumbs/it_control_room.jpg",
       "size": 2325591,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/it_control_room.webp"
     },
     {
       "id": "it_hacker_laptop",
@@ -127,7 +136,8 @@
       "video": "videos/it_hacker_laptop.mp4",
       "thumb": "thumbs/it_hacker_laptop.jpg",
       "size": 3715283,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/it_hacker_laptop.webp"
     },
     {
       "id": "it_monitors",
@@ -136,7 +146,8 @@
       "video": "videos/it_monitors.mp4",
       "thumb": "thumbs/it_monitors.jpg",
       "size": 4466719,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/it_monitors.webp"
     },
     {
       "id": "it_motherboard",
@@ -145,7 +156,8 @@
       "video": "videos/it_motherboard.mp4",
       "thumb": "thumbs/it_motherboard.jpg",
       "size": 8708802,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/it_motherboard.webp"
     },
     {
       "id": "it_digital_clock",
@@ -154,7 +166,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_digital_clock.mp4",
       "thumb": "thumbs/it_digital_clock.jpg",
       "size": 3217557,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/it_digital_clock.webp"
     },
     {
       "id": "it_dev_workspace",
@@ -163,7 +176,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_dev_workspace.mp4",
       "thumb": "thumbs/it_dev_workspace.jpg",
       "size": 2563248,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/it_dev_workspace.webp"
     },
     {
       "id": "it_rgb_keyboard",
@@ -172,7 +186,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_rgb_keyboard.mp4",
       "thumb": "thumbs/it_rgb_keyboard.jpg",
       "size": 3033355,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/it_rgb_keyboard.webp"
     },
     {
       "id": "it_code_monitor",
@@ -181,7 +196,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_code_monitor.mp4",
       "thumb": "thumbs/it_code_monitor.jpg",
       "size": 2022855,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/it_code_monitor.webp"
     },
     {
       "id": "it_code_closeup",
@@ -190,7 +206,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_code_closeup.mp4",
       "thumb": "thumbs/it_code_closeup.jpg",
       "size": 1663391,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/it_code_closeup.webp"
     },
     {
       "id": "it_anonymous",
@@ -199,7 +216,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_anonymous.mp4",
       "thumb": "thumbs/it_anonymous.jpg",
       "size": 2425360,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/it_anonymous.webp"
     },
     {
       "id": "it_masked_hacker",
@@ -208,7 +226,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_masked_hacker.mp4",
       "thumb": "thumbs/it_masked_hacker.jpg",
       "size": 2760457,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/it_masked_hacker.webp"
     },
     {
       "id": "it_cyber_glasses",
@@ -217,7 +236,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_cyber_glasses.mp4",
       "thumb": "thumbs/it_cyber_glasses.jpg",
       "size": 5396906,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/it_cyber_glasses.webp"
     },
     {
       "id": "game_voxel_night",
@@ -226,7 +246,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_voxel_night.mp4",
       "thumb": "thumbs/game_voxel_night.jpg",
       "size": 10917772,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/game_voxel_night.webp"
     },
     {
       "id": "game_voxel_ice",
@@ -235,7 +256,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_voxel_ice.mp4",
       "thumb": "thumbs/game_voxel_ice.jpg",
       "size": 9750864,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/game_voxel_ice.webp"
     },
     {
       "id": "game_outrun_neon",
@@ -244,7 +266,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_outrun_neon.mp4",
       "thumb": "thumbs/game_outrun_neon.jpg",
       "size": 7229195,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/game_outrun_neon.webp"
     },
     {
       "id": "game_cyber_violet",
@@ -253,7 +276,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_cyber_violet.mp4",
       "thumb": "thumbs/game_cyber_violet.jpg",
       "size": 8429335,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/game_cyber_violet.webp"
     },
     {
       "id": "game_cyber_cyan",
@@ -262,7 +286,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_cyber_cyan.mp4",
       "thumb": "thumbs/game_cyber_cyan.jpg",
       "size": 9163774,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/game_cyber_cyan.webp"
     },
     {
       "id": "game_cyber_emerald",
@@ -271,7 +296,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_cyber_emerald.mp4",
       "thumb": "thumbs/game_cyber_emerald.jpg",
       "size": 9146240,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/game_cyber_emerald.webp"
     },
     {
       "id": "game_parallax_night",
@@ -280,7 +306,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_parallax_night.mp4",
       "thumb": "thumbs/game_parallax_night.jpg",
       "size": 3884853,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/game_parallax_night.webp"
     },
     {
       "id": "game_parallax_dusk",
@@ -289,7 +316,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_parallax_dusk.mp4",
       "thumb": "thumbs/game_parallax_dusk.jpg",
       "size": 3910750,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/game_parallax_dusk.webp"
     },
     {
       "id": "game_parallax_emerald",
@@ -298,7 +326,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_parallax_emerald.mp4",
       "thumb": "thumbs/game_parallax_emerald.jpg",
       "size": 3826441,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/game_parallax_emerald.webp"
     },
     {
       "id": "game_parallax_crimson",
@@ -307,7 +336,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_parallax_crimson.mp4",
       "thumb": "thumbs/game_parallax_crimson.jpg",
       "size": 5252681,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/game_parallax_crimson.webp"
     },
     {
       "id": "game_snake_cyan",
@@ -316,7 +346,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_snake_cyan.mp4",
       "thumb": "thumbs/game_snake_cyan.jpg",
       "size": 2283569,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/game_snake_cyan.webp"
     },
     {
       "id": "neon_laser_show",
@@ -325,7 +356,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/neon_laser_show.mp4",
       "thumb": "thumbs/neon_laser_show.jpg",
       "size": 9078872,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/neon_laser_show.webp"
     },
     {
       "id": "neon_blue_lasers",
@@ -334,7 +366,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/neon_blue_lasers.mp4",
       "thumb": "thumbs/neon_blue_lasers.jpg",
       "size": 7676751,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/neon_blue_lasers.webp"
     },
     {
       "id": "neon_laser_triangle",
@@ -343,7 +376,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/neon_laser_triangle.mp4",
       "thumb": "thumbs/neon_laser_triangle.jpg",
       "size": 5438038,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/neon_laser_triangle.webp"
     },
     {
       "id": "neon_green_beams",
@@ -352,7 +386,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/neon_green_beams.mp4",
       "thumb": "thumbs/neon_green_beams.jpg",
       "size": 3169144,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/neon_green_beams.webp"
     },
     {
       "id": "space_star_cluster",
@@ -361,7 +396,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_star_cluster.mp4",
       "thumb": "thumbs/space_star_cluster.jpg",
       "size": 6266413,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/space_star_cluster.webp"
     },
     {
       "id": "space_edge_galaxy",
@@ -370,7 +406,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_edge_galaxy.mp4",
       "thumb": "thumbs/space_edge_galaxy.jpg",
       "size": 1154309,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/space_edge_galaxy.webp"
     },
     {
       "id": "space_star_dust",
@@ -379,7 +416,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_star_dust.mp4",
       "thumb": "thumbs/space_star_dust.jpg",
       "size": 2905139,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/space_star_dust.webp"
     },
     {
       "id": "space_nebula",
@@ -388,7 +426,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_nebula.mp4",
       "thumb": "thumbs/space_nebula.jpg",
       "size": 2407570,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/space_nebula.webp"
     },
     {
       "id": "space_bright_star",
@@ -397,7 +436,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_bright_star.mp4",
       "thumb": "thumbs/space_bright_star.jpg",
       "size": 5372615,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/space_bright_star.webp"
     },
     {
       "id": "space_andromeda",
@@ -406,7 +446,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_andromeda.mp4",
       "thumb": "thumbs/space_andromeda.jpg",
       "size": 1881001,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/space_andromeda.webp"
     },
     {
       "id": "space_star_stream",
@@ -415,7 +456,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_star_stream.mp4",
       "thumb": "thumbs/space_star_stream.jpg",
       "size": 1473290,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/space_star_stream.webp"
     },
     {
       "id": "city_skyscrapers_night",
@@ -424,7 +466,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_skyscrapers_night.mp4",
       "thumb": "thumbs/city_skyscrapers_night.jpg",
       "size": 5668789,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/city_skyscrapers_night.webp"
     },
     {
       "id": "city_night_windows",
@@ -433,7 +476,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_night_windows.mp4",
       "thumb": "thumbs/city_night_windows.jpg",
       "size": 2847206,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/city_night_windows.webp"
     },
     {
       "id": "city_from_above",
@@ -442,7 +486,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_from_above.mp4",
       "thumb": "thumbs/city_from_above.jpg",
       "size": 8313426,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/city_from_above.webp"
     },
     {
       "id": "city_lit_tower",
@@ -451,7 +496,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_lit_tower.mp4",
       "thumb": "thumbs/city_lit_tower.jpg",
       "size": 3161461,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/city_lit_tower.webp"
     },
     {
       "id": "city_glass_tower",
@@ -460,7 +506,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_glass_tower.mp4",
       "thumb": "thumbs/city_glass_tower.jpg",
       "size": 3202260,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/city_glass_tower.webp"
     },
     {
       "id": "city_avenue_above",
@@ -469,7 +516,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_avenue_above.mp4",
       "thumb": "thumbs/city_avenue_above.jpg",
       "size": 5919469,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/city_avenue_above.webp"
     },
     {
       "id": "city_panorama",
@@ -478,7 +526,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_panorama.mp4",
       "thumb": "thumbs/city_panorama.jpg",
       "size": 7005328,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/city_panorama.webp"
     },
     {
       "id": "city_night_highway",
@@ -487,7 +536,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_night_highway.mp4",
       "thumb": "thumbs/city_night_highway.jpg",
       "size": 5938029,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/city_night_highway.webp"
     },
     {
       "id": "city_neon_sign",
@@ -496,7 +546,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_neon_sign.mp4",
       "thumb": "thumbs/city_neon_sign.jpg",
       "size": 1567136,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/city_neon_sign.webp"
     },
     {
       "id": "city_of_power",
@@ -505,7 +556,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_of_power.mp4",
       "thumb": "thumbs/city_of_power.jpg",
       "size": 4136586,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/city_of_power.webp"
     },
     {
       "id": "fire_tongues",
@@ -514,7 +566,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_tongues.mp4",
       "thumb": "thumbs/fire_tongues.jpg",
       "size": 4193881,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/fire_tongues.webp"
     },
     {
       "id": "fire_from_below",
@@ -523,7 +576,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_from_below.mp4",
       "thumb": "thumbs/fire_from_below.jpg",
       "size": 5319910,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/fire_from_below.webp"
     },
     {
       "id": "fire_flashes",
@@ -532,7 +586,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_flashes.mp4",
       "thumb": "thumbs/fire_flashes.jpg",
       "size": 2957293,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/fire_flashes.webp"
     },
     {
       "id": "fire_embers",
@@ -541,7 +596,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_embers.mp4",
       "thumb": "thumbs/fire_embers.jpg",
       "size": 2347217,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/fire_embers.webp"
     },
     {
       "id": "fire_bonfire",
@@ -550,7 +606,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_bonfire.mp4",
       "thumb": "thumbs/fire_bonfire.jpg",
       "size": 7518243,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/fire_bonfire.webp"
     },
     {
       "id": "fire_pillars",
@@ -559,7 +616,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_pillars.mp4",
       "thumb": "thumbs/fire_pillars.jpg",
       "size": 11410477,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/fire_pillars.webp"
     },
     {
       "id": "fire_lonely_flame",
@@ -568,7 +626,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_lonely_flame.mp4",
       "thumb": "thumbs/fire_lonely_flame.jpg",
       "size": 7159963,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/fire_lonely_flame.webp"
     },
     {
       "id": "fire_wild",
@@ -577,7 +636,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_wild.mp4",
       "thumb": "thumbs/fire_wild.jpg",
       "size": 8330400,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/fire_wild.webp"
     },
     {
       "id": "abstract_bokeh",
@@ -586,7 +646,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_bokeh.mp4",
       "thumb": "thumbs/abstract_bokeh.jpg",
       "size": 2988334,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/abstract_bokeh.webp"
     },
     {
       "id": "abstract_pool_water",
@@ -595,7 +656,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_pool_water.mp4",
       "thumb": "thumbs/abstract_pool_water.jpg",
       "size": 5788038,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/abstract_pool_water.webp"
     },
     {
       "id": "abstract_symmetric_smoke",
@@ -604,7 +666,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_symmetric_smoke.mp4",
       "thumb": "thumbs/abstract_symmetric_smoke.jpg",
       "size": 8160082,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/abstract_symmetric_smoke.webp"
     },
     {
       "id": "abstract_teal_haze",
@@ -613,7 +676,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_teal_haze.mp4",
       "thumb": "thumbs/abstract_teal_haze.jpg",
       "size": 10755405,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/abstract_teal_haze.webp"
     },
     {
       "id": "abstract_color_dust",
@@ -622,7 +686,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_color_dust.mp4",
       "thumb": "thumbs/abstract_color_dust.jpg",
       "size": 15090338,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/abstract_color_dust.webp"
     },
     {
       "id": "abstract_paint_burst",
@@ -631,7 +696,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_paint_burst.mp4",
       "thumb": "thumbs/abstract_paint_burst.jpg",
       "size": 5842974,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/abstract_paint_burst.webp"
     },
     {
       "id": "abstract_liquid_paint",
@@ -640,7 +706,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_liquid_paint.mp4",
       "thumb": "thumbs/abstract_liquid_paint.jpg",
       "size": 3958657,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/abstract_liquid_paint.webp"
     },
     {
       "id": "abstract_water_stream",
@@ -649,7 +716,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_water_stream.mp4",
       "thumb": "thumbs/abstract_water_stream.jpg",
       "size": 3279205,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/abstract_water_stream.webp"
     },
     {
       "id": "abstract_thin_smoke",
@@ -658,7 +726,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_thin_smoke.mp4",
       "thumb": "thumbs/abstract_thin_smoke.jpg",
       "size": 6475069,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/abstract_thin_smoke.webp"
     },
     {
       "id": "mood_cat_eye",
@@ -667,7 +736,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/mood_cat_eye.mp4",
       "thumb": "thumbs/mood_cat_eye.jpg",
       "size": 4968995,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/mood_cat_eye.webp"
     },
     {
       "id": "mood_moon_trees",
@@ -676,7 +746,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/mood_moon_trees.mp4",
       "thumb": "thumbs/mood_moon_trees.jpg",
       "size": 4951900,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/mood_moon_trees.webp"
     },
     {
       "id": "mood_candles",
@@ -685,7 +756,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/mood_candles.mp4",
       "thumb": "thumbs/mood_candles.jpg",
       "size": 3039781,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/mood_candles.webp"
     },
     {
       "id": "mood_chess_king",
@@ -694,7 +766,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/mood_chess_king.mp4",
       "thumb": "thumbs/mood_chess_king.jpg",
       "size": 1838279,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/mood_chess_king.webp"
     },
     {
       "id": "mood_chess",
@@ -703,7 +776,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/mood_chess.mp4",
       "thumb": "thumbs/mood_chess.jpg",
       "size": 2650095,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/mood_chess.webp"
     },
     {
       "id": "nature_turquoise_waves",
@@ -712,7 +786,8 @@
       "video": "videos/nature_turquoise_waves.mp4",
       "thumb": "thumbs/nature_turquoise_waves.jpg",
       "size": 13434754,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/nature_turquoise_waves.webp"
     },
     {
       "id": "nature_ocean_rocks",
@@ -721,7 +796,8 @@
       "video": "videos/nature_ocean_rocks.mp4",
       "thumb": "thumbs/nature_ocean_rocks.jpg",
       "size": 16333273,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/nature_ocean_rocks.webp"
     },
     {
       "id": "nature_palm_sun",
@@ -730,7 +806,8 @@
       "video": "videos/nature_palm_sun.mp4",
       "thumb": "thumbs/nature_palm_sun.jpg",
       "size": 17328160,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/nature_palm_sun.webp"
     },
     {
       "id": "nature_sunset_palms",
@@ -739,7 +816,8 @@
       "video": "videos/nature_sunset_palms.mp4",
       "thumb": "thumbs/nature_sunset_palms.jpg",
       "size": 8843218,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/nature_sunset_palms.webp"
     },
     {
       "id": "nature_smoke",
@@ -748,7 +826,8 @@
       "video": "videos/nature_smoke.mp4",
       "thumb": "thumbs/nature_smoke.jpg",
       "size": 8221489,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/nature_smoke.webp"
     },
     {
       "id": "nature_flames",
@@ -757,7 +836,8 @@
       "video": "videos/nature_flames.mp4",
       "thumb": "thumbs/nature_flames.jpg",
       "size": 4937580,
-      "added": "2026-09-27"
+      "added": "2026-09-27",
+      "preview": "previews/nature_flames.webp"
     }
   ]
 }
