@@ -48,33 +48,33 @@
   ],
   "wallpapers": [
     {
-      "id": "cyber_hack_red",
-      "title": "Взлом CUSHPEN",
+      "id": "glitch_jump_red",
+      "title": "Глитч-код",
       "category": "it",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/cyber_hack_red.mp4",
-      "thumb": "thumbs/cyber_hack_red.jpg",
-      "preview": "previews/cyber_hack_red.webp",
-      "size": 7861221,
-      "rev": "8cbbbd97d7",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/glitch_jump_red.mp4",
+      "thumb": "thumbs/glitch_jump_red.jpg",
+      "preview": "previews/glitch_jump_red.webp",
+      "size": 16225579,
+      "rev": "4008e47024",
       "added": "2026-09-28",
       "layers": [
         {
           "type": "video",
-          "depth": -0.4,
+          "depth": -0.35,
           "blend": "normal",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/cyber_hack_red__far.mp4"
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/glitch_jump_red__far.mp4"
         },
         {
           "type": "video",
-          "depth": 0.35,
+          "depth": 0.3,
           "blend": "add",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/cyber_hack_red__mid.mp4"
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/glitch_jump_red__mid.mp4"
         },
         {
           "type": "video",
           "depth": 1.0,
           "blend": "add",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/cyber_hack_red__near.mp4"
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/glitch_jump_red__near.mp4"
         }
       ]
     },
