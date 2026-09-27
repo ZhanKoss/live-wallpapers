@@ -50,7 +50,8 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/layered_glitch_breach.mp4",
       "thumb": "thumbs/layered_glitch_breach.jpg",
       "preview": "previews/layered_glitch_breach.webp",
-      "size": 2429870,
+      "size": 2402891,
+      "rev": "651c668253",
       "added": "2026-09-27",
       "layers": [
         {
@@ -65,8 +66,132 @@
           "blend": "add",
           "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/layered_glitch_breach__near.mp4"
         }
-      ],
-      "rev": "585706573e"
+      ]
+    },
+    {
+      "id": "it_net_map",
+      "title": "Карта сети",
+      "category": "it",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_net_map.mp4",
+      "thumb": "thumbs/it_net_map.jpg",
+      "preview": "previews/it_net_map.webp",
+      "size": 975519,
+      "rev": "3bc125f34d",
+      "added": "2026-09-27",
+      "layers": [
+        {
+          "type": "video",
+          "depth": -0.35,
+          "blend": "normal",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_net_map__far.mp4"
+        },
+        {
+          "type": "video",
+          "depth": 1.0,
+          "blend": "add",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_net_map__near.mp4"
+        }
+      ]
+    },
+    {
+      "id": "it_net_pulse",
+      "title": "Пульс сети",
+      "category": "it",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_net_pulse.mp4",
+      "thumb": "thumbs/it_net_pulse.jpg",
+      "preview": "previews/it_net_pulse.webp",
+      "size": 831026,
+      "rev": "514663e8f3",
+      "added": "2026-09-27",
+      "layers": [
+        {
+          "type": "video",
+          "depth": -0.35,
+          "blend": "normal",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_net_pulse__far.mp4"
+        },
+        {
+          "type": "video",
+          "depth": 1.0,
+          "blend": "add",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_net_pulse__near.mp4"
+        }
+      ]
+    },
+    {
+      "id": "it_build_log",
+      "title": "Сборка проекта",
+      "category": "it",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_build_log.mp4",
+      "thumb": "thumbs/it_build_log.jpg",
+      "preview": "previews/it_build_log.webp",
+      "size": 853900,
+      "rev": "a121e20d16",
+      "added": "2026-09-27",
+      "layers": [
+        {
+          "type": "video",
+          "depth": -0.35,
+          "blend": "normal",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_build_log__far.mp4"
+        },
+        {
+          "type": "video",
+          "depth": 1.0,
+          "blend": "add",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_build_log__near.mp4"
+        }
+      ]
+    },
+    {
+      "id": "it_cpu_cores",
+      "title": "Ядра процессора",
+      "category": "it",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_cpu_cores.mp4",
+      "thumb": "thumbs/it_cpu_cores.jpg",
+      "preview": "previews/it_cpu_cores.webp",
+      "size": 761716,
+      "rev": "5ea9d5af3d",
+      "added": "2026-09-27",
+      "layers": [
+        {
+          "type": "video",
+          "depth": -0.35,
+          "blend": "normal",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_cpu_cores__far.mp4"
+        },
+        {
+          "type": "video",
+          "depth": 1.0,
+          "blend": "add",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_cpu_cores__near.mp4"
+        }
+      ]
+    },
+    {
+      "id": "it_data_sync",
+      "title": "Синхронизация",
+      "category": "it",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_data_sync.mp4",
+      "thumb": "thumbs/it_data_sync.jpg",
+      "preview": "previews/it_data_sync.webp",
+      "size": 1315696,
+      "rev": "fe1668858d",
+      "added": "2026-09-27",
+      "layers": [
+        {
+          "type": "video",
+          "depth": -0.35,
+          "blend": "normal",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_data_sync__far.mp4"
+        },
+        {
+          "type": "video",
+          "depth": 1.0,
+          "blend": "add",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_data_sync__near.mp4"
+        }
+      ]
     },
     {
       "id": "it_katakana",
