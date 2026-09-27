@@ -1,0 +1,132 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "it",
+      "title": "IT"
+    },
+    {
+      "id": "nature",
+      "title": "Природа"
+    }
+  ],
+  "wallpapers": [
+    {
+      "id": "it_matrix",
+      "title": "Матрица",
+      "category": "it",
+      "video": "videos/it_matrix.mp4",
+      "thumb": "thumbs/it_matrix.jpg",
+      "size": 6554788,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "it_network",
+      "title": "Нейросеть",
+      "category": "it",
+      "video": "videos/it_network.mp4",
+      "thumb": "thumbs/it_network.jpg",
+      "size": 14490263,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "it_terminal",
+      "title": "Код в терминале",
+      "category": "it",
+      "video": "videos/it_terminal.mp4",
+      "thumb": "thumbs/it_terminal.jpg",
+      "size": 8533559,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "it_control_room",
+      "title": "Центр управления",
+      "category": "it",
+      "video": "videos/it_control_room.mp4",
+      "thumb": "thumbs/it_control_room.jpg",
+      "size": 2325591,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "it_hacker_laptop",
+      "title": "Хакер за ноутбуком",
+      "category": "it",
+      "video": "videos/it_hacker_laptop.mp4",
+      "thumb": "thumbs/it_hacker_laptop.jpg",
+      "size": 3715283,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "it_monitors",
+      "title": "Мониторы с кодом",
+      "category": "it",
+      "video": "videos/it_monitors.mp4",
+      "thumb": "thumbs/it_monitors.jpg",
+      "size": 4466719,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "it_motherboard",
+      "title": "Материнская плата",
+      "category": "it",
+      "video": "videos/it_motherboard.mp4",
+      "thumb": "thumbs/it_motherboard.jpg",
+      "size": 8708802,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "nature_turquoise_waves",
+      "title": "Бирюзовые волны",
+      "category": "nature",
+      "video": "videos/nature_turquoise_waves.mp4",
+      "thumb": "thumbs/nature_turquoise_waves.jpg",
+      "size": 13434754,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "nature_ocean_rocks",
+      "title": "Прибой сверху",
+      "category": "nature",
+      "video": "videos/nature_ocean_rocks.mp4",
+      "thumb": "thumbs/nature_ocean_rocks.jpg",
+      "size": 16333273,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "nature_palm_sun",
+      "title": "Пальма на закате",
+      "category": "nature",
+      "video": "videos/nature_palm_sun.mp4",
+      "thumb": "thumbs/nature_palm_sun.jpg",
+      "size": 17328160,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "nature_sunset_palms",
+      "title": "Солнце за пальмами",
+      "category": "nature",
+      "video": "videos/nature_sunset_palms.mp4",
+      "thumb": "thumbs/nature_sunset_palms.jpg",
+      "size": 8843218,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "nature_smoke",
+      "title": "Дым",
+      "category": "nature",
+      "video": "videos/nature_smoke.mp4",
+      "thumb": "thumbs/nature_smoke.jpg",
+      "size": 8221489,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "nature_flames",
+      "title": "Пламя",
+      "category": "nature",
+      "video": "videos/nature_flames.mp4",
+      "thumb": "thumbs/nature_flames.jpg",
+      "size": 4937580,
+      "added": "2026-09-27"
+    }
+  ]
+}
