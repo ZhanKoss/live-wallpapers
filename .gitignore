@@ -2,3 +2,6 @@
 videos/*
 .catalog.lock
 ai_src/
+open_src/
+commons_src/
+dareful_src/
