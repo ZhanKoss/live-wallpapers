@@ -48,33 +48,33 @@
   ],
   "wallpapers": [
     {
-      "id": "glitch_words_red",
-      "title": "Глитч ZHANDOS",
+      "id": "cyber_hack_red",
+      "title": "Взлом CUSHPEN",
       "category": "it",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/glitch_words_red.mp4",
-      "thumb": "thumbs/glitch_words_red.jpg",
-      "preview": "previews/glitch_words_red.webp",
-      "size": 1941818,
-      "rev": "7996f361a3",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/cyber_hack_red.mp4",
+      "thumb": "thumbs/cyber_hack_red.jpg",
+      "preview": "previews/cyber_hack_red.webp",
+      "size": 7861221,
+      "rev": "8cbbbd97d7",
       "added": "2026-09-28",
       "layers": [
         {
           "type": "video",
           "depth": -0.4,
           "blend": "normal",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/glitch_words_red__far.mp4"
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/cyber_hack_red__far.mp4"
         },
         {
           "type": "video",
           "depth": 0.35,
           "blend": "add",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/glitch_words_red__mid.mp4"
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/cyber_hack_red__mid.mp4"
         },
         {
           "type": "video",
           "depth": 1.0,
           "blend": "add",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/glitch_words_red__near.mp4"
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/cyber_hack_red__near.mp4"
         }
       ]
     },
