@@ -6,6 +6,10 @@
       "title": "IT"
     },
     {
+      "id": "games",
+      "title": "Игры"
+    },
+    {
       "id": "neon",
       "title": "Неон"
     },
@@ -213,6 +217,105 @@
       "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_cyber_glasses.mp4",
       "thumb": "thumbs/it_cyber_glasses.jpg",
       "size": 5396906,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "game_voxel_night",
+      "title": "Воксельная ночь",
+      "category": "games",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_voxel_night.mp4",
+      "thumb": "thumbs/game_voxel_night.jpg",
+      "size": 10917772,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "game_voxel_ice",
+      "title": "Ледяное сияние",
+      "category": "games",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_voxel_ice.mp4",
+      "thumb": "thumbs/game_voxel_ice.jpg",
+      "size": 9750864,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "game_outrun_neon",
+      "title": "Неоновое шоссе",
+      "category": "games",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_outrun_neon.mp4",
+      "thumb": "thumbs/game_outrun_neon.jpg",
+      "size": 7229195,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "game_cyber_violet",
+      "title": "Неоновый мегаполис",
+      "category": "games",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_cyber_violet.mp4",
+      "thumb": "thumbs/game_cyber_violet.jpg",
+      "size": 8429335,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "game_cyber_cyan",
+      "title": "Дождливый киберград",
+      "category": "games",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_cyber_cyan.mp4",
+      "thumb": "thumbs/game_cyber_cyan.jpg",
+      "size": 9163774,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "game_cyber_emerald",
+      "title": "Кислотный город",
+      "category": "games",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_cyber_emerald.mp4",
+      "thumb": "thumbs/game_cyber_emerald.jpg",
+      "size": 9146240,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "game_parallax_night",
+      "title": "Ночной замок",
+      "category": "games",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_parallax_night.mp4",
+      "thumb": "thumbs/game_parallax_night.jpg",
+      "size": 3884853,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "game_parallax_dusk",
+      "title": "Закатная пагода",
+      "category": "games",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_parallax_dusk.mp4",
+      "thumb": "thumbs/game_parallax_dusk.jpg",
+      "size": 3910750,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "game_parallax_emerald",
+      "title": "Изумрудные руины",
+      "category": "games",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_parallax_emerald.mp4",
+      "thumb": "thumbs/game_parallax_emerald.jpg",
+      "size": 3826441,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "game_parallax_crimson",
+      "title": "Кровавая луна",
+      "category": "games",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_parallax_crimson.mp4",
+      "thumb": "thumbs/game_parallax_crimson.jpg",
+      "size": 5252681,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "game_snake_cyan",
+      "title": "Неоновая змейка",
+      "category": "games",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_snake_cyan.mp4",
+      "thumb": "thumbs/game_snake_cyan.jpg",
+      "size": 2283569,
       "added": "2026-09-27"
     },
     {
