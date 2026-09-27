@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "4.7",
-  "apk": "https://github.com/ZhanKoss/live-wallpapers/releases/download/v4.7/Alivepaper.apk",
-  "notes": "Объёмный параллакс из слоёв без дублей, живой параллакс в предпросмотре, обои «Взлом»"
+  "versionCode": 12,
+  "versionName": "4.8",
+  "apk": "https://github.com/ZhanKoss/live-wallpapers/releases/download/v4.8/Alivepaper.apk",
+  "notes": "Превью грузятся быстрее и не зависают, обои «Взлом» под OLED"
 }
