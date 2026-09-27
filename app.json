@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "4.5",
-  "apk": "https://github.com/ZhanKoss/live-wallpapers/releases/download/v4.5/Alivepaper.apk",
-  "notes": "Плитки снова в 3 колонки, прямоугольные кнопки"
+  "versionCode": 10,
+  "versionName": "4.6",
+  "apk": "https://github.com/ZhanKoss/live-wallpapers/releases/download/v4.6/Alivepaper.apk",
+  "notes": "Параллакс от наклона телефона: у ИИ-обоев с настоящей глубиной"
 }
