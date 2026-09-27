@@ -6,6 +6,30 @@
       "title": "IT"
     },
     {
+      "id": "neon",
+      "title": "Неон"
+    },
+    {
+      "id": "space",
+      "title": "Космос"
+    },
+    {
+      "id": "city",
+      "title": "Ночной город"
+    },
+    {
+      "id": "fire",
+      "title": "Огонь"
+    },
+    {
+      "id": "abstract",
+      "title": "Абстракция"
+    },
+    {
+      "id": "mood",
+      "title": "Атмосфера"
+    },
+    {
       "id": "nature",
       "title": "Природа"
     }
@@ -117,6 +141,465 @@
       "video": "videos/it_motherboard.mp4",
       "thumb": "thumbs/it_motherboard.jpg",
       "size": 8708802,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "it_digital_clock",
+      "title": "Цифровые часы",
+      "category": "it",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_digital_clock.mp4",
+      "thumb": "thumbs/it_digital_clock.jpg",
+      "size": 3217557,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "it_dev_workspace",
+      "title": "Рабочее место программиста",
+      "category": "it",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_dev_workspace.mp4",
+      "thumb": "thumbs/it_dev_workspace.jpg",
+      "size": 2563248,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "it_rgb_keyboard",
+      "title": "Подсвеченная клавиатура",
+      "category": "it",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_rgb_keyboard.mp4",
+      "thumb": "thumbs/it_rgb_keyboard.jpg",
+      "size": 3033355,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "it_code_monitor",
+      "title": "Код на мониторе",
+      "category": "it",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_code_monitor.mp4",
+      "thumb": "thumbs/it_code_monitor.jpg",
+      "size": 2022855,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "it_code_closeup",
+      "title": "Код крупным планом",
+      "category": "it",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_code_closeup.mp4",
+      "thumb": "thumbs/it_code_closeup.jpg",
+      "size": 1663391,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "it_anonymous",
+      "title": "Аноним",
+      "category": "it",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_anonymous.mp4",
+      "thumb": "thumbs/it_anonymous.jpg",
+      "size": 2425360,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "it_masked_hacker",
+      "title": "Хакер в маске",
+      "category": "it",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_masked_hacker.mp4",
+      "thumb": "thumbs/it_masked_hacker.jpg",
+      "size": 2760457,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "it_cyber_glasses",
+      "title": "Кибер-очки",
+      "category": "it",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/it_cyber_glasses.mp4",
+      "thumb": "thumbs/it_cyber_glasses.jpg",
+      "size": 5396906,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "neon_laser_show",
+      "title": "Лазерное шоу",
+      "category": "neon",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/neon_laser_show.mp4",
+      "thumb": "thumbs/neon_laser_show.jpg",
+      "size": 9078872,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "neon_blue_lasers",
+      "title": "Синие лазеры",
+      "category": "neon",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/neon_blue_lasers.mp4",
+      "thumb": "thumbs/neon_blue_lasers.jpg",
+      "size": 7676751,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "neon_laser_triangle",
+      "title": "Лазерный треугольник",
+      "category": "neon",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/neon_laser_triangle.mp4",
+      "thumb": "thumbs/neon_laser_triangle.jpg",
+      "size": 5438038,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "neon_green_beams",
+      "title": "Зелёные лучи",
+      "category": "neon",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/neon_green_beams.mp4",
+      "thumb": "thumbs/neon_green_beams.jpg",
+      "size": 3169144,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "space_star_cluster",
+      "title": "Звёздное скопление",
+      "category": "space",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_star_cluster.mp4",
+      "thumb": "thumbs/space_star_cluster.jpg",
+      "size": 6266413,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "space_edge_galaxy",
+      "title": "Галактика с ребра",
+      "category": "space",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_edge_galaxy.mp4",
+      "thumb": "thumbs/space_edge_galaxy.jpg",
+      "size": 1154309,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "space_star_dust",
+      "title": "Звёздная пыль",
+      "category": "space",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_star_dust.mp4",
+      "thumb": "thumbs/space_star_dust.jpg",
+      "size": 2905139,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "space_nebula",
+      "title": "Туманность",
+      "category": "space",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_nebula.mp4",
+      "thumb": "thumbs/space_nebula.jpg",
+      "size": 2407570,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "space_bright_star",
+      "title": "Яркая звезда",
+      "category": "space",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_bright_star.mp4",
+      "thumb": "thumbs/space_bright_star.jpg",
+      "size": 5372615,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "space_andromeda",
+      "title": "Андромеда",
+      "category": "space",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_andromeda.mp4",
+      "thumb": "thumbs/space_andromeda.jpg",
+      "size": 1881001,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "space_star_stream",
+      "title": "Звёздный поток",
+      "category": "space",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_star_stream.mp4",
+      "thumb": "thumbs/space_star_stream.jpg",
+      "size": 1473290,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "city_skyscrapers_night",
+      "title": "Небоскрёбы ночью",
+      "category": "city",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_skyscrapers_night.mp4",
+      "thumb": "thumbs/city_skyscrapers_night.jpg",
+      "size": 5668789,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "city_night_windows",
+      "title": "Окна ночного города",
+      "category": "city",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_night_windows.mp4",
+      "thumb": "thumbs/city_night_windows.jpg",
+      "size": 2847206,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "city_from_above",
+      "title": "Ночной город с высоты",
+      "category": "city",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_from_above.mp4",
+      "thumb": "thumbs/city_from_above.jpg",
+      "size": 8313426,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "city_lit_tower",
+      "title": "Башня в огнях",
+      "category": "city",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_lit_tower.mp4",
+      "thumb": "thumbs/city_lit_tower.jpg",
+      "size": 3161461,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "city_glass_tower",
+      "title": "Стеклянный небоскрёб",
+      "category": "city",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_glass_tower.mp4",
+      "thumb": "thumbs/city_glass_tower.jpg",
+      "size": 3202260,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "city_avenue_above",
+      "title": "Ночной проспект сверху",
+      "category": "city",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_avenue_above.mp4",
+      "thumb": "thumbs/city_avenue_above.jpg",
+      "size": 5919469,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "city_panorama",
+      "title": "Ночная панорама",
+      "category": "city",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_panorama.mp4",
+      "thumb": "thumbs/city_panorama.jpg",
+      "size": 7005328,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "city_night_highway",
+      "title": "Ночное шоссе",
+      "category": "city",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_night_highway.mp4",
+      "thumb": "thumbs/city_night_highway.jpg",
+      "size": 5938029,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "city_neon_sign",
+      "title": "Неоновая вывеска",
+      "category": "city",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_neon_sign.mp4",
+      "thumb": "thumbs/city_neon_sign.jpg",
+      "size": 1567136,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "city_of_power",
+      "title": "City of Power",
+      "category": "city",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_of_power.mp4",
+      "thumb": "thumbs/city_of_power.jpg",
+      "size": 4136586,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "fire_tongues",
+      "title": "Огненные языки",
+      "category": "fire",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_tongues.mp4",
+      "thumb": "thumbs/fire_tongues.jpg",
+      "size": 4193881,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "fire_from_below",
+      "title": "Пламя снизу",
+      "category": "fire",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_from_below.mp4",
+      "thumb": "thumbs/fire_from_below.jpg",
+      "size": 5319910,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "fire_flashes",
+      "title": "Огненные всполохи",
+      "category": "fire",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_flashes.mp4",
+      "thumb": "thumbs/fire_flashes.jpg",
+      "size": 2957293,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "fire_embers",
+      "title": "Угли",
+      "category": "fire",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_embers.mp4",
+      "thumb": "thumbs/fire_embers.jpg",
+      "size": 2347217,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "fire_bonfire",
+      "title": "Костёр",
+      "category": "fire",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_bonfire.mp4",
+      "thumb": "thumbs/fire_bonfire.jpg",
+      "size": 7518243,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "fire_pillars",
+      "title": "Огненные столбы",
+      "category": "fire",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_pillars.mp4",
+      "thumb": "thumbs/fire_pillars.jpg",
+      "size": 11410477,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "fire_lonely_flame",
+      "title": "Одинокое пламя",
+      "category": "fire",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_lonely_flame.mp4",
+      "thumb": "thumbs/fire_lonely_flame.jpg",
+      "size": 7159963,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "fire_wild",
+      "title": "Буйное пламя",
+      "category": "fire",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_wild.mp4",
+      "thumb": "thumbs/fire_wild.jpg",
+      "size": 8330400,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "abstract_bokeh",
+      "title": "Боке огней",
+      "category": "abstract",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_bokeh.mp4",
+      "thumb": "thumbs/abstract_bokeh.jpg",
+      "size": 2988334,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "abstract_pool_water",
+      "title": "Вода в бассейне",
+      "category": "abstract",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_pool_water.mp4",
+      "thumb": "thumbs/abstract_pool_water.jpg",
+      "size": 5788038,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "abstract_symmetric_smoke",
+      "title": "Симметричный дым",
+      "category": "abstract",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_symmetric_smoke.mp4",
+      "thumb": "thumbs/abstract_symmetric_smoke.jpg",
+      "size": 8160082,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "abstract_teal_haze",
+      "title": "Бирюзовая дымка",
+      "category": "abstract",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_teal_haze.mp4",
+      "thumb": "thumbs/abstract_teal_haze.jpg",
+      "size": 10755405,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "abstract_color_dust",
+      "title": "Цветная пыль",
+      "category": "abstract",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_color_dust.mp4",
+      "thumb": "thumbs/abstract_color_dust.jpg",
+      "size": 15090338,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "abstract_paint_burst",
+      "title": "Взрыв красок",
+      "category": "abstract",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_paint_burst.mp4",
+      "thumb": "thumbs/abstract_paint_burst.jpg",
+      "size": 5842974,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "abstract_liquid_paint",
+      "title": "Жидкие краски",
+      "category": "abstract",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_liquid_paint.mp4",
+      "thumb": "thumbs/abstract_liquid_paint.jpg",
+      "size": 3958657,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "abstract_water_stream",
+      "title": "Струя воды",
+      "category": "abstract",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_water_stream.mp4",
+      "thumb": "thumbs/abstract_water_stream.jpg",
+      "size": 3279205,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "abstract_thin_smoke",
+      "title": "Тонкий дым",
+      "category": "abstract",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_thin_smoke.mp4",
+      "thumb": "thumbs/abstract_thin_smoke.jpg",
+      "size": 6475069,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "mood_cat_eye",
+      "title": "Кошачий глаз",
+      "category": "mood",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/mood_cat_eye.mp4",
+      "thumb": "thumbs/mood_cat_eye.jpg",
+      "size": 4968995,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "mood_moon_trees",
+      "title": "Луна за деревьями",
+      "category": "mood",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/mood_moon_trees.mp4",
+      "thumb": "thumbs/mood_moon_trees.jpg",
+      "size": 4951900,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "mood_candles",
+      "title": "Свечи",
+      "category": "mood",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/mood_candles.mp4",
+      "thumb": "thumbs/mood_candles.jpg",
+      "size": 3039781,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "mood_chess_king",
+      "title": "Шахматный король",
+      "category": "mood",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/mood_chess_king.mp4",
+      "thumb": "thumbs/mood_chess_king.jpg",
+      "size": 1838279,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "mood_chess",
+      "title": "Шахматы",
+      "category": "mood",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/mood_chess.mp4",
+      "thumb": "thumbs/mood_chess.jpg",
+      "size": 2650095,
       "added": "2026-09-27"
     },
     {

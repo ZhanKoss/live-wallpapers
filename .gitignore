@@ -1,0 +1,3 @@
+# Видео хранятся в GitHub Releases (тег videos), в git только старые
+videos/*
+.catalog.lock
