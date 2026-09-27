@@ -10,43 +10,193 @@
       "title": "Киберпанк"
     },
     {
-      "id": "fire",
-      "title": "Огонь и лава"
-    },
-    {
-      "id": "nature",
-      "title": "Природа"
-    },
-    {
-      "id": "city",
-      "title": "Ночной город"
-    },
-    {
-      "id": "space",
-      "title": "Космос"
-    },
-    {
-      "id": "mood",
-      "title": "Атмосфера"
+      "id": "games",
+      "title": "Игры"
     },
     {
       "id": "anime",
       "title": "Аниме"
     },
     {
-      "id": "games",
-      "title": "Игры"
+      "id": "space",
+      "title": "Космос"
     },
     {
       "id": "neon",
       "title": "Неон"
     },
     {
+      "id": "city",
+      "title": "Ночной город"
+    },
+    {
+      "id": "fire",
+      "title": "Огонь и лава"
+    },
+    {
       "id": "abstract",
       "title": "Абстракция"
+    },
+    {
+      "id": "mood",
+      "title": "Атмосфера"
+    },
+    {
+      "id": "nature",
+      "title": "Природа"
     }
   ],
   "wallpapers": [
+    {
+      "id": "itf_circuit_red",
+      "title": "Импульсы платы",
+      "category": "it",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/itf_circuit_red.mp4",
+      "thumb": "thumbs/itf_circuit_red.jpg",
+      "preview": "previews/itf_circuit_red.webp",
+      "size": 1156673,
+      "rev": "8a9fcc7328",
+      "added": "2026-09-28",
+      "layers": [
+        {
+          "type": "video",
+          "depth": -0.35,
+          "blend": "normal",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/itf_circuit_red__far.mp4"
+        },
+        {
+          "type": "video",
+          "depth": 1.0,
+          "blend": "add",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/itf_circuit_red__near.mp4"
+        }
+      ]
+    },
+    {
+      "id": "itf_circuit_cyan",
+      "title": "Голубая плата",
+      "category": "it",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/itf_circuit_cyan.mp4",
+      "thumb": "thumbs/itf_circuit_cyan.jpg",
+      "preview": "previews/itf_circuit_cyan.webp",
+      "size": 1351438,
+      "rev": "1ce4be2372",
+      "added": "2026-09-28",
+      "layers": [
+        {
+          "type": "video",
+          "depth": -0.35,
+          "blend": "normal",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/itf_circuit_cyan__far.mp4"
+        },
+        {
+          "type": "video",
+          "depth": 1.0,
+          "blend": "add",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/itf_circuit_cyan__near.mp4"
+        }
+      ]
+    },
+    {
+      "id": "itf_tron_cyan",
+      "title": "Неоновая сетка",
+      "category": "it",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/itf_tron_cyan.mp4",
+      "thumb": "thumbs/itf_tron_cyan.jpg",
+      "preview": "previews/itf_tron_cyan.webp",
+      "size": 1792949,
+      "rev": "65ef64a0c4",
+      "added": "2026-09-28",
+      "layers": [
+        {
+          "type": "video",
+          "depth": -0.35,
+          "blend": "normal",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/itf_tron_cyan__far.mp4"
+        },
+        {
+          "type": "video",
+          "depth": 1.0,
+          "blend": "add",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/itf_tron_cyan__near.mp4"
+        }
+      ]
+    },
+    {
+      "id": "itf_tron_red",
+      "title": "Красный горизонт",
+      "category": "it",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/itf_tron_red.mp4",
+      "thumb": "thumbs/itf_tron_red.jpg",
+      "preview": "previews/itf_tron_red.webp",
+      "size": 1443681,
+      "rev": "09866324c9",
+      "added": "2026-09-28",
+      "layers": [
+        {
+          "type": "video",
+          "depth": -0.35,
+          "blend": "normal",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/itf_tron_red__far.mp4"
+        },
+        {
+          "type": "video",
+          "depth": 1.0,
+          "blend": "add",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/itf_tron_red__near.mp4"
+        }
+      ]
+    },
+    {
+      "id": "itf_scope_green",
+      "title": "Осциллограф",
+      "category": "it",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/itf_scope_green.mp4",
+      "thumb": "thumbs/itf_scope_green.jpg",
+      "preview": "previews/itf_scope_green.webp",
+      "size": 1616816,
+      "rev": "ba5b618f70",
+      "added": "2026-09-28",
+      "layers": [
+        {
+          "type": "video",
+          "depth": -0.35,
+          "blend": "normal",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/itf_scope_green__far.mp4"
+        },
+        {
+          "type": "video",
+          "depth": 1.0,
+          "blend": "add",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/itf_scope_green__near.mp4"
+        }
+      ]
+    },
+    {
+      "id": "itf_scope_violet",
+      "title": "Фиолетовые волны",
+      "category": "it",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/itf_scope_violet.mp4",
+      "thumb": "thumbs/itf_scope_violet.jpg",
+      "preview": "previews/itf_scope_violet.webp",
+      "size": 1179350,
+      "rev": "1cb01a51ea",
+      "added": "2026-09-28",
+      "layers": [
+        {
+          "type": "video",
+          "depth": -0.35,
+          "blend": "normal",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/itf_scope_violet__far.mp4"
+        },
+        {
+          "type": "video",
+          "depth": 1.0,
+          "blend": "add",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/itf_scope_violet__near.mp4"
+        }
+      ]
+    },
     {
       "id": "layered_glitch_breach",
       "title": "Взлом",
@@ -431,244 +581,243 @@
       "added": "2026-09-27"
     },
     {
-      "id": "fire_tongues",
-      "title": "Огненные языки",
-      "category": "fire",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_tongues.mp4",
-      "thumb": "thumbs/fire_tongues.jpg",
-      "size": 4193881,
-      "added": "2026-09-27",
-      "preview": "previews/fire_tongues.webp"
+      "id": "game_outrun_sunset",
+      "title": "Ретро-закат",
+      "category": "games",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_outrun_sunset.mp4",
+      "thumb": "thumbs/game_outrun_sunset.jpg",
+      "preview": "previews/game_outrun_sunset.webp",
+      "size": 7262282,
+      "rev": "5e0a3430b5",
+      "added": "2026-09-28"
     },
     {
-      "id": "fire_from_below",
-      "title": "Пламя снизу",
-      "category": "fire",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_from_below.mp4",
-      "thumb": "thumbs/fire_from_below.jpg",
-      "size": 5319910,
-      "added": "2026-09-27",
-      "preview": "previews/fire_from_below.webp"
+      "id": "game_voxel_dusk",
+      "title": "Кубический закат",
+      "category": "games",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_voxel_dusk.mp4",
+      "thumb": "thumbs/game_voxel_dusk.jpg",
+      "preview": "previews/game_voxel_dusk.webp",
+      "size": 8971396,
+      "rev": "2129f4f34b",
+      "added": "2026-09-28"
     },
     {
-      "id": "fire_flashes",
-      "title": "Огненные всполохи",
-      "category": "fire",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_flashes.mp4",
-      "thumb": "thumbs/fire_flashes.jpg",
-      "size": 2957293,
-      "added": "2026-09-27",
-      "preview": "previews/fire_flashes.webp"
+      "id": "game_voxel_alien",
+      "title": "Чужая планета",
+      "category": "games",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_voxel_alien.mp4",
+      "thumb": "thumbs/game_voxel_alien.jpg",
+      "preview": "previews/game_voxel_alien.webp",
+      "size": 9761002,
+      "rev": "2ef1a1adfa",
+      "added": "2026-09-28"
     },
     {
-      "id": "fire_embers",
-      "title": "Угли",
-      "category": "fire",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_embers.mp4",
-      "thumb": "thumbs/fire_embers.jpg",
-      "size": 2347217,
+      "id": "ai_game_moon_castle",
+      "title": "Замок под луной",
+      "category": "games",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_game_moon_castle.mp4",
+      "thumb": "thumbs/ai_game_moon_castle.jpg",
+      "preview": "previews/ai_game_moon_castle.webp",
+      "size": 6991139,
       "added": "2026-09-27",
-      "preview": "previews/fire_embers.webp"
+      "layers": [
+        {
+          "type": "image",
+          "depth": -0.45,
+          "blend": "normal",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_game_moon_castle__bg.jpg"
+        },
+        {
+          "type": "image",
+          "depth": 1.0,
+          "blend": "alpha",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_game_moon_castle__fg.webp"
+        },
+        {
+          "type": "video",
+          "depth": 1.25,
+          "blend": "add",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_game_moon_castle__fx.mp4"
+        }
+      ]
     },
     {
-      "id": "fire_bonfire",
-      "title": "Костёр",
-      "category": "fire",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_bonfire.mp4",
-      "thumb": "thumbs/fire_bonfire.jpg",
-      "size": 7518243,
+      "id": "game_voxel_night",
+      "title": "Воксельная ночь",
+      "category": "games",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_voxel_night.mp4",
+      "thumb": "thumbs/game_voxel_night.jpg",
+      "size": 10917772,
       "added": "2026-09-27",
-      "preview": "previews/fire_bonfire.webp"
+      "preview": "previews/game_voxel_night.webp"
     },
     {
-      "id": "fire_pillars",
-      "title": "Огненные столбы",
-      "category": "fire",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_pillars.mp4",
-      "thumb": "thumbs/fire_pillars.jpg",
-      "size": 11410477,
+      "id": "game_voxel_ice",
+      "title": "Ледяное сияние",
+      "category": "games",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_voxel_ice.mp4",
+      "thumb": "thumbs/game_voxel_ice.jpg",
+      "size": 9750864,
       "added": "2026-09-27",
-      "preview": "previews/fire_pillars.webp"
+      "preview": "previews/game_voxel_ice.webp"
     },
     {
-      "id": "fire_lonely_flame",
-      "title": "Одинокое пламя",
-      "category": "fire",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_lonely_flame.mp4",
-      "thumb": "thumbs/fire_lonely_flame.jpg",
-      "size": 7159963,
+      "id": "game_outrun_neon",
+      "title": "Неоновое шоссе",
+      "category": "games",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_outrun_neon.mp4",
+      "thumb": "thumbs/game_outrun_neon.jpg",
+      "size": 7229195,
       "added": "2026-09-27",
-      "preview": "previews/fire_lonely_flame.webp"
+      "preview": "previews/game_outrun_neon.webp"
     },
     {
-      "id": "fire_wild",
-      "title": "Буйное пламя",
-      "category": "fire",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_wild.mp4",
-      "thumb": "thumbs/fire_wild.jpg",
-      "size": 8330400,
+      "id": "game_cyber_violet",
+      "title": "Неоновый мегаполис",
+      "category": "games",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_cyber_violet.mp4",
+      "thumb": "thumbs/game_cyber_violet.jpg",
+      "size": 8429335,
       "added": "2026-09-27",
-      "preview": "previews/fire_wild.webp"
+      "preview": "previews/game_cyber_violet.webp"
     },
     {
-      "id": "nature_turquoise_waves",
-      "title": "Бирюзовые волны",
-      "category": "nature",
-      "video": "videos/nature_turquoise_waves.mp4",
-      "thumb": "thumbs/nature_turquoise_waves.jpg",
-      "size": 13434754,
+      "id": "game_cyber_cyan",
+      "title": "Дождливый киберград",
+      "category": "games",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_cyber_cyan.mp4",
+      "thumb": "thumbs/game_cyber_cyan.jpg",
+      "size": 9163774,
       "added": "2026-09-27",
-      "preview": "previews/nature_turquoise_waves.webp"
+      "preview": "previews/game_cyber_cyan.webp"
     },
     {
-      "id": "nature_ocean_rocks",
-      "title": "Прибой сверху",
-      "category": "nature",
-      "video": "videos/nature_ocean_rocks.mp4",
-      "thumb": "thumbs/nature_ocean_rocks.jpg",
-      "size": 16333273,
+      "id": "game_cyber_emerald",
+      "title": "Кислотный город",
+      "category": "games",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_cyber_emerald.mp4",
+      "thumb": "thumbs/game_cyber_emerald.jpg",
+      "size": 9146240,
       "added": "2026-09-27",
-      "preview": "previews/nature_ocean_rocks.webp"
+      "preview": "previews/game_cyber_emerald.webp"
     },
     {
-      "id": "nature_palm_sun",
-      "title": "Пальма на закате",
-      "category": "nature",
-      "video": "videos/nature_palm_sun.mp4",
-      "thumb": "thumbs/nature_palm_sun.jpg",
-      "size": 17328160,
+      "id": "game_parallax_night",
+      "title": "Ночной замок",
+      "category": "games",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_parallax_night.mp4",
+      "thumb": "thumbs/game_parallax_night.jpg",
+      "size": 3884853,
       "added": "2026-09-27",
-      "preview": "previews/nature_palm_sun.webp"
+      "preview": "previews/game_parallax_night.webp"
     },
     {
-      "id": "nature_sunset_palms",
-      "title": "Солнце за пальмами",
-      "category": "nature",
-      "video": "videos/nature_sunset_palms.mp4",
-      "thumb": "thumbs/nature_sunset_palms.jpg",
-      "size": 8843218,
+      "id": "game_parallax_dusk",
+      "title": "Закатная пагода",
+      "category": "games",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_parallax_dusk.mp4",
+      "thumb": "thumbs/game_parallax_dusk.jpg",
+      "size": 3910750,
       "added": "2026-09-27",
-      "preview": "previews/nature_sunset_palms.webp"
+      "preview": "previews/game_parallax_dusk.webp"
     },
     {
-      "id": "nature_smoke",
-      "title": "Дым",
-      "category": "nature",
-      "video": "videos/nature_smoke.mp4",
-      "thumb": "thumbs/nature_smoke.jpg",
-      "size": 8221489,
+      "id": "game_parallax_emerald",
+      "title": "Изумрудные руины",
+      "category": "games",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_parallax_emerald.mp4",
+      "thumb": "thumbs/game_parallax_emerald.jpg",
+      "size": 3826441,
       "added": "2026-09-27",
-      "preview": "previews/nature_smoke.webp"
+      "preview": "previews/game_parallax_emerald.webp"
     },
     {
-      "id": "nature_flames",
-      "title": "Пламя",
-      "category": "nature",
-      "video": "videos/nature_flames.mp4",
-      "thumb": "thumbs/nature_flames.jpg",
-      "size": 4937580,
+      "id": "game_parallax_crimson",
+      "title": "Кровавая луна",
+      "category": "games",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_parallax_crimson.mp4",
+      "thumb": "thumbs/game_parallax_crimson.jpg",
+      "size": 5252681,
       "added": "2026-09-27",
-      "preview": "previews/nature_flames.webp"
+      "preview": "previews/game_parallax_crimson.webp"
     },
     {
-      "id": "city_skyscrapers_night",
-      "title": "Небоскрёбы ночью",
-      "category": "city",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_skyscrapers_night.mp4",
-      "thumb": "thumbs/city_skyscrapers_night.jpg",
-      "size": 5668789,
+      "id": "game_snake_cyan",
+      "title": "Неоновая змейка",
+      "category": "games",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_snake_cyan.mp4",
+      "thumb": "thumbs/game_snake_cyan.jpg",
+      "size": 2283569,
       "added": "2026-09-27",
-      "preview": "previews/city_skyscrapers_night.webp"
+      "preview": "previews/game_snake_cyan.webp"
     },
     {
-      "id": "city_night_windows",
-      "title": "Окна ночного города",
-      "category": "city",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_night_windows.mp4",
-      "thumb": "thumbs/city_night_windows.jpg",
-      "size": 2847206,
+      "id": "ai_anime_tokyo_rain",
+      "title": "Дождливый Токио",
+      "category": "anime",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_tokyo_rain.mp4",
+      "thumb": "thumbs/ai_anime_tokyo_rain.jpg",
+      "preview": "previews/ai_anime_tokyo_rain.webp",
+      "size": 12243034,
       "added": "2026-09-27",
-      "preview": "previews/city_night_windows.webp"
+      "layers": [
+        {
+          "type": "image",
+          "depth": -0.45,
+          "blend": "normal",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_tokyo_rain__bg.jpg"
+        },
+        {
+          "type": "image",
+          "depth": 1.0,
+          "blend": "alpha",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_tokyo_rain__fg.webp"
+        },
+        {
+          "type": "video",
+          "depth": 1.25,
+          "blend": "add",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_tokyo_rain__fx.mp4"
+        }
+      ]
     },
     {
-      "id": "city_from_above",
-      "title": "Ночной город с высоты",
-      "category": "city",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_from_above.mp4",
-      "thumb": "thumbs/city_from_above.jpg",
-      "size": 8313426,
+      "id": "ai_anime_sakura_shrine",
+      "title": "Храм под сакурой",
+      "category": "anime",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine.mp4",
+      "thumb": "thumbs/ai_anime_sakura_shrine.jpg",
+      "preview": "previews/ai_anime_sakura_shrine.webp",
+      "size": 6614686,
       "added": "2026-09-27",
-      "preview": "previews/city_from_above.webp"
-    },
-    {
-      "id": "city_lit_tower",
-      "title": "Башня в огнях",
-      "category": "city",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_lit_tower.mp4",
-      "thumb": "thumbs/city_lit_tower.jpg",
-      "size": 3161461,
-      "added": "2026-09-27",
-      "preview": "previews/city_lit_tower.webp"
-    },
-    {
-      "id": "city_glass_tower",
-      "title": "Стеклянный небоскрёб",
-      "category": "city",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_glass_tower.mp4",
-      "thumb": "thumbs/city_glass_tower.jpg",
-      "size": 3202260,
-      "added": "2026-09-27",
-      "preview": "previews/city_glass_tower.webp"
-    },
-    {
-      "id": "city_avenue_above",
-      "title": "Ночной проспект сверху",
-      "category": "city",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_avenue_above.mp4",
-      "thumb": "thumbs/city_avenue_above.jpg",
-      "size": 5919469,
-      "added": "2026-09-27",
-      "preview": "previews/city_avenue_above.webp"
-    },
-    {
-      "id": "city_panorama",
-      "title": "Ночная панорама",
-      "category": "city",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_panorama.mp4",
-      "thumb": "thumbs/city_panorama.jpg",
-      "size": 7005328,
-      "added": "2026-09-27",
-      "preview": "previews/city_panorama.webp"
-    },
-    {
-      "id": "city_night_highway",
-      "title": "Ночное шоссе",
-      "category": "city",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_night_highway.mp4",
-      "thumb": "thumbs/city_night_highway.jpg",
-      "size": 5938029,
-      "added": "2026-09-27",
-      "preview": "previews/city_night_highway.webp"
-    },
-    {
-      "id": "city_neon_sign",
-      "title": "Неоновая вывеска",
-      "category": "city",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_neon_sign.mp4",
-      "thumb": "thumbs/city_neon_sign.jpg",
-      "size": 1567136,
-      "added": "2026-09-27",
-      "preview": "previews/city_neon_sign.webp"
-    },
-    {
-      "id": "city_of_power",
-      "title": "City of Power",
-      "category": "city",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_of_power.mp4",
-      "thumb": "thumbs/city_of_power.jpg",
-      "size": 4136586,
-      "added": "2026-09-27",
-      "preview": "previews/city_of_power.webp"
+      "layers": [
+        {
+          "type": "image",
+          "depth": -0.45,
+          "blend": "normal",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine__bg.jpg"
+        },
+        {
+          "type": "image",
+          "depth": 0.35,
+          "blend": "alpha",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine__mid.webp"
+        },
+        {
+          "type": "image",
+          "depth": 1.0,
+          "blend": "alpha",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine__fg.webp"
+        },
+        {
+          "type": "video",
+          "depth": 1.25,
+          "blend": "add",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine__fx.mp4"
+        }
+      ]
     },
     {
       "id": "space_weic2332a",
@@ -923,262 +1072,6 @@
       "credit": "ESO/L. Calçada/ spaceengine.org — CC BY 4.0"
     },
     {
-      "id": "mood_cat_eye",
-      "title": "Кошачий глаз",
-      "category": "mood",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/mood_cat_eye.mp4",
-      "thumb": "thumbs/mood_cat_eye.jpg",
-      "size": 4968995,
-      "added": "2026-09-27",
-      "preview": "previews/mood_cat_eye.webp"
-    },
-    {
-      "id": "mood_moon_trees",
-      "title": "Луна за деревьями",
-      "category": "mood",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/mood_moon_trees.mp4",
-      "thumb": "thumbs/mood_moon_trees.jpg",
-      "size": 4951900,
-      "added": "2026-09-27",
-      "preview": "previews/mood_moon_trees.webp"
-    },
-    {
-      "id": "mood_candles",
-      "title": "Свечи",
-      "category": "mood",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/mood_candles.mp4",
-      "thumb": "thumbs/mood_candles.jpg",
-      "size": 3039781,
-      "added": "2026-09-27",
-      "preview": "previews/mood_candles.webp"
-    },
-    {
-      "id": "mood_chess_king",
-      "title": "Шахматный король",
-      "category": "mood",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/mood_chess_king.mp4",
-      "thumb": "thumbs/mood_chess_king.jpg",
-      "size": 1838279,
-      "added": "2026-09-27",
-      "preview": "previews/mood_chess_king.webp"
-    },
-    {
-      "id": "mood_chess",
-      "title": "Шахматы",
-      "category": "mood",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/mood_chess.mp4",
-      "thumb": "thumbs/mood_chess.jpg",
-      "size": 2650095,
-      "added": "2026-09-27",
-      "preview": "previews/mood_chess.webp"
-    },
-    {
-      "id": "ai_anime_tokyo_rain",
-      "title": "Дождливый Токио",
-      "category": "anime",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_tokyo_rain.mp4",
-      "thumb": "thumbs/ai_anime_tokyo_rain.jpg",
-      "preview": "previews/ai_anime_tokyo_rain.webp",
-      "size": 12243034,
-      "added": "2026-09-27",
-      "layers": [
-        {
-          "type": "image",
-          "depth": -0.45,
-          "blend": "normal",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_tokyo_rain__bg.jpg"
-        },
-        {
-          "type": "image",
-          "depth": 1.0,
-          "blend": "alpha",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_tokyo_rain__fg.webp"
-        },
-        {
-          "type": "video",
-          "depth": 1.25,
-          "blend": "add",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_tokyo_rain__fx.mp4"
-        }
-      ]
-    },
-    {
-      "id": "ai_anime_sakura_shrine",
-      "title": "Храм под сакурой",
-      "category": "anime",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine.mp4",
-      "thumb": "thumbs/ai_anime_sakura_shrine.jpg",
-      "preview": "previews/ai_anime_sakura_shrine.webp",
-      "size": 6614686,
-      "added": "2026-09-27",
-      "layers": [
-        {
-          "type": "image",
-          "depth": -0.45,
-          "blend": "normal",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine__bg.jpg"
-        },
-        {
-          "type": "image",
-          "depth": 0.35,
-          "blend": "alpha",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine__mid.webp"
-        },
-        {
-          "type": "image",
-          "depth": 1.0,
-          "blend": "alpha",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine__fg.webp"
-        },
-        {
-          "type": "video",
-          "depth": 1.25,
-          "blend": "add",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine__fx.mp4"
-        }
-      ]
-    },
-    {
-      "id": "ai_game_moon_castle",
-      "title": "Замок под луной",
-      "category": "games",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_game_moon_castle.mp4",
-      "thumb": "thumbs/ai_game_moon_castle.jpg",
-      "preview": "previews/ai_game_moon_castle.webp",
-      "size": 6991139,
-      "added": "2026-09-27",
-      "layers": [
-        {
-          "type": "image",
-          "depth": -0.45,
-          "blend": "normal",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_game_moon_castle__bg.jpg"
-        },
-        {
-          "type": "image",
-          "depth": 1.0,
-          "blend": "alpha",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_game_moon_castle__fg.webp"
-        },
-        {
-          "type": "video",
-          "depth": 1.25,
-          "blend": "add",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_game_moon_castle__fx.mp4"
-        }
-      ]
-    },
-    {
-      "id": "game_voxel_night",
-      "title": "Воксельная ночь",
-      "category": "games",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_voxel_night.mp4",
-      "thumb": "thumbs/game_voxel_night.jpg",
-      "size": 10917772,
-      "added": "2026-09-27",
-      "preview": "previews/game_voxel_night.webp"
-    },
-    {
-      "id": "game_voxel_ice",
-      "title": "Ледяное сияние",
-      "category": "games",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_voxel_ice.mp4",
-      "thumb": "thumbs/game_voxel_ice.jpg",
-      "size": 9750864,
-      "added": "2026-09-27",
-      "preview": "previews/game_voxel_ice.webp"
-    },
-    {
-      "id": "game_outrun_neon",
-      "title": "Неоновое шоссе",
-      "category": "games",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_outrun_neon.mp4",
-      "thumb": "thumbs/game_outrun_neon.jpg",
-      "size": 7229195,
-      "added": "2026-09-27",
-      "preview": "previews/game_outrun_neon.webp"
-    },
-    {
-      "id": "game_cyber_violet",
-      "title": "Неоновый мегаполис",
-      "category": "games",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_cyber_violet.mp4",
-      "thumb": "thumbs/game_cyber_violet.jpg",
-      "size": 8429335,
-      "added": "2026-09-27",
-      "preview": "previews/game_cyber_violet.webp"
-    },
-    {
-      "id": "game_cyber_cyan",
-      "title": "Дождливый киберград",
-      "category": "games",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_cyber_cyan.mp4",
-      "thumb": "thumbs/game_cyber_cyan.jpg",
-      "size": 9163774,
-      "added": "2026-09-27",
-      "preview": "previews/game_cyber_cyan.webp"
-    },
-    {
-      "id": "game_cyber_emerald",
-      "title": "Кислотный город",
-      "category": "games",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_cyber_emerald.mp4",
-      "thumb": "thumbs/game_cyber_emerald.jpg",
-      "size": 9146240,
-      "added": "2026-09-27",
-      "preview": "previews/game_cyber_emerald.webp"
-    },
-    {
-      "id": "game_parallax_night",
-      "title": "Ночной замок",
-      "category": "games",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_parallax_night.mp4",
-      "thumb": "thumbs/game_parallax_night.jpg",
-      "size": 3884853,
-      "added": "2026-09-27",
-      "preview": "previews/game_parallax_night.webp"
-    },
-    {
-      "id": "game_parallax_dusk",
-      "title": "Закатная пагода",
-      "category": "games",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_parallax_dusk.mp4",
-      "thumb": "thumbs/game_parallax_dusk.jpg",
-      "size": 3910750,
-      "added": "2026-09-27",
-      "preview": "previews/game_parallax_dusk.webp"
-    },
-    {
-      "id": "game_parallax_emerald",
-      "title": "Изумрудные руины",
-      "category": "games",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_parallax_emerald.mp4",
-      "thumb": "thumbs/game_parallax_emerald.jpg",
-      "size": 3826441,
-      "added": "2026-09-27",
-      "preview": "previews/game_parallax_emerald.webp"
-    },
-    {
-      "id": "game_parallax_crimson",
-      "title": "Кровавая луна",
-      "category": "games",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_parallax_crimson.mp4",
-      "thumb": "thumbs/game_parallax_crimson.jpg",
-      "size": 5252681,
-      "added": "2026-09-27",
-      "preview": "previews/game_parallax_crimson.webp"
-    },
-    {
-      "id": "game_snake_cyan",
-      "title": "Неоновая змейка",
-      "category": "games",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/game_snake_cyan.mp4",
-      "thumb": "thumbs/game_snake_cyan.jpg",
-      "size": 2283569,
-      "added": "2026-09-27",
-      "preview": "previews/game_snake_cyan.webp"
-    },
-    {
       "id": "neon_laser_show",
       "title": "Лазерное шоу",
       "category": "neon",
@@ -1217,6 +1110,186 @@
       "size": 3169144,
       "added": "2026-09-27",
       "preview": "previews/neon_green_beams.webp"
+    },
+    {
+      "id": "city_skyscrapers_night",
+      "title": "Небоскрёбы ночью",
+      "category": "city",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_skyscrapers_night.mp4",
+      "thumb": "thumbs/city_skyscrapers_night.jpg",
+      "size": 5668789,
+      "added": "2026-09-27",
+      "preview": "previews/city_skyscrapers_night.webp"
+    },
+    {
+      "id": "city_night_windows",
+      "title": "Окна ночного города",
+      "category": "city",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_night_windows.mp4",
+      "thumb": "thumbs/city_night_windows.jpg",
+      "size": 2847206,
+      "added": "2026-09-27",
+      "preview": "previews/city_night_windows.webp"
+    },
+    {
+      "id": "city_from_above",
+      "title": "Ночной город с высоты",
+      "category": "city",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_from_above.mp4",
+      "thumb": "thumbs/city_from_above.jpg",
+      "size": 8313426,
+      "added": "2026-09-27",
+      "preview": "previews/city_from_above.webp"
+    },
+    {
+      "id": "city_lit_tower",
+      "title": "Башня в огнях",
+      "category": "city",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_lit_tower.mp4",
+      "thumb": "thumbs/city_lit_tower.jpg",
+      "size": 3161461,
+      "added": "2026-09-27",
+      "preview": "previews/city_lit_tower.webp"
+    },
+    {
+      "id": "city_glass_tower",
+      "title": "Стеклянный небоскрёб",
+      "category": "city",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_glass_tower.mp4",
+      "thumb": "thumbs/city_glass_tower.jpg",
+      "size": 3202260,
+      "added": "2026-09-27",
+      "preview": "previews/city_glass_tower.webp"
+    },
+    {
+      "id": "city_avenue_above",
+      "title": "Ночной проспект сверху",
+      "category": "city",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_avenue_above.mp4",
+      "thumb": "thumbs/city_avenue_above.jpg",
+      "size": 5919469,
+      "added": "2026-09-27",
+      "preview": "previews/city_avenue_above.webp"
+    },
+    {
+      "id": "city_panorama",
+      "title": "Ночная панорама",
+      "category": "city",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_panorama.mp4",
+      "thumb": "thumbs/city_panorama.jpg",
+      "size": 7005328,
+      "added": "2026-09-27",
+      "preview": "previews/city_panorama.webp"
+    },
+    {
+      "id": "city_night_highway",
+      "title": "Ночное шоссе",
+      "category": "city",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_night_highway.mp4",
+      "thumb": "thumbs/city_night_highway.jpg",
+      "size": 5938029,
+      "added": "2026-09-27",
+      "preview": "previews/city_night_highway.webp"
+    },
+    {
+      "id": "city_neon_sign",
+      "title": "Неоновая вывеска",
+      "category": "city",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_neon_sign.mp4",
+      "thumb": "thumbs/city_neon_sign.jpg",
+      "size": 1567136,
+      "added": "2026-09-27",
+      "preview": "previews/city_neon_sign.webp"
+    },
+    {
+      "id": "city_of_power",
+      "title": "City of Power",
+      "category": "city",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_of_power.mp4",
+      "thumb": "thumbs/city_of_power.jpg",
+      "size": 4136586,
+      "added": "2026-09-27",
+      "preview": "previews/city_of_power.webp"
+    },
+    {
+      "id": "fire_tongues",
+      "title": "Огненные языки",
+      "category": "fire",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_tongues.mp4",
+      "thumb": "thumbs/fire_tongues.jpg",
+      "size": 4193881,
+      "added": "2026-09-27",
+      "preview": "previews/fire_tongues.webp"
+    },
+    {
+      "id": "fire_from_below",
+      "title": "Пламя снизу",
+      "category": "fire",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_from_below.mp4",
+      "thumb": "thumbs/fire_from_below.jpg",
+      "size": 5319910,
+      "added": "2026-09-27",
+      "preview": "previews/fire_from_below.webp"
+    },
+    {
+      "id": "fire_flashes",
+      "title": "Огненные всполохи",
+      "category": "fire",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_flashes.mp4",
+      "thumb": "thumbs/fire_flashes.jpg",
+      "size": 2957293,
+      "added": "2026-09-27",
+      "preview": "previews/fire_flashes.webp"
+    },
+    {
+      "id": "fire_embers",
+      "title": "Угли",
+      "category": "fire",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_embers.mp4",
+      "thumb": "thumbs/fire_embers.jpg",
+      "size": 2347217,
+      "added": "2026-09-27",
+      "preview": "previews/fire_embers.webp"
+    },
+    {
+      "id": "fire_bonfire",
+      "title": "Костёр",
+      "category": "fire",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_bonfire.mp4",
+      "thumb": "thumbs/fire_bonfire.jpg",
+      "size": 7518243,
+      "added": "2026-09-27",
+      "preview": "previews/fire_bonfire.webp"
+    },
+    {
+      "id": "fire_pillars",
+      "title": "Огненные столбы",
+      "category": "fire",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_pillars.mp4",
+      "thumb": "thumbs/fire_pillars.jpg",
+      "size": 11410477,
+      "added": "2026-09-27",
+      "preview": "previews/fire_pillars.webp"
+    },
+    {
+      "id": "fire_lonely_flame",
+      "title": "Одинокое пламя",
+      "category": "fire",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_lonely_flame.mp4",
+      "thumb": "thumbs/fire_lonely_flame.jpg",
+      "size": 7159963,
+      "added": "2026-09-27",
+      "preview": "previews/fire_lonely_flame.webp"
+    },
+    {
+      "id": "fire_wild",
+      "title": "Буйное пламя",
+      "category": "fire",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_wild.mp4",
+      "thumb": "thumbs/fire_wild.jpg",
+      "size": 8330400,
+      "added": "2026-09-27",
+      "preview": "previews/fire_wild.webp"
     },
     {
       "id": "abstract_bokeh",
@@ -1307,6 +1380,116 @@
       "size": 6475069,
       "added": "2026-09-27",
       "preview": "previews/abstract_thin_smoke.webp"
+    },
+    {
+      "id": "mood_cat_eye",
+      "title": "Кошачий глаз",
+      "category": "mood",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/mood_cat_eye.mp4",
+      "thumb": "thumbs/mood_cat_eye.jpg",
+      "size": 4968995,
+      "added": "2026-09-27",
+      "preview": "previews/mood_cat_eye.webp"
+    },
+    {
+      "id": "mood_moon_trees",
+      "title": "Луна за деревьями",
+      "category": "mood",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/mood_moon_trees.mp4",
+      "thumb": "thumbs/mood_moon_trees.jpg",
+      "size": 4951900,
+      "added": "2026-09-27",
+      "preview": "previews/mood_moon_trees.webp"
+    },
+    {
+      "id": "mood_candles",
+      "title": "Свечи",
+      "category": "mood",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/mood_candles.mp4",
+      "thumb": "thumbs/mood_candles.jpg",
+      "size": 3039781,
+      "added": "2026-09-27",
+      "preview": "previews/mood_candles.webp"
+    },
+    {
+      "id": "mood_chess_king",
+      "title": "Шахматный король",
+      "category": "mood",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/mood_chess_king.mp4",
+      "thumb": "thumbs/mood_chess_king.jpg",
+      "size": 1838279,
+      "added": "2026-09-27",
+      "preview": "previews/mood_chess_king.webp"
+    },
+    {
+      "id": "mood_chess",
+      "title": "Шахматы",
+      "category": "mood",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/mood_chess.mp4",
+      "thumb": "thumbs/mood_chess.jpg",
+      "size": 2650095,
+      "added": "2026-09-27",
+      "preview": "previews/mood_chess.webp"
+    },
+    {
+      "id": "nature_turquoise_waves",
+      "title": "Бирюзовые волны",
+      "category": "nature",
+      "video": "videos/nature_turquoise_waves.mp4",
+      "thumb": "thumbs/nature_turquoise_waves.jpg",
+      "size": 13434754,
+      "added": "2026-09-27",
+      "preview": "previews/nature_turquoise_waves.webp"
+    },
+    {
+      "id": "nature_ocean_rocks",
+      "title": "Прибой сверху",
+      "category": "nature",
+      "video": "videos/nature_ocean_rocks.mp4",
+      "thumb": "thumbs/nature_ocean_rocks.jpg",
+      "size": 16333273,
+      "added": "2026-09-27",
+      "preview": "previews/nature_ocean_rocks.webp"
+    },
+    {
+      "id": "nature_palm_sun",
+      "title": "Пальма на закате",
+      "category": "nature",
+      "video": "videos/nature_palm_sun.mp4",
+      "thumb": "thumbs/nature_palm_sun.jpg",
+      "size": 17328160,
+      "added": "2026-09-27",
+      "preview": "previews/nature_palm_sun.webp"
+    },
+    {
+      "id": "nature_sunset_palms",
+      "title": "Солнце за пальмами",
+      "category": "nature",
+      "video": "videos/nature_sunset_palms.mp4",
+      "thumb": "thumbs/nature_sunset_palms.jpg",
+      "size": 8843218,
+      "added": "2026-09-27",
+      "preview": "previews/nature_sunset_palms.webp"
+    },
+    {
+      "id": "nature_smoke",
+      "title": "Дым",
+      "category": "nature",
+      "video": "videos/nature_smoke.mp4",
+      "thumb": "thumbs/nature_smoke.jpg",
+      "size": 8221489,
+      "added": "2026-09-27",
+      "preview": "previews/nature_smoke.webp"
+    },
+    {
+      "id": "nature_flames",
+      "title": "Пламя",
+      "category": "nature",
+      "video": "videos/nature_flames.mp4",
+      "thumb": "thumbs/nature_flames.jpg",
+      "size": 4937580,
+      "added": "2026-09-27",
+      "preview": "previews/nature_flames.webp"
     }
   ]
 }
