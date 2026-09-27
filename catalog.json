@@ -6,6 +6,10 @@
       "title": "IT"
     },
     {
+      "id": "anime",
+      "title": "Аниме"
+    },
+    {
       "id": "games",
       "title": "Игры"
     },
@@ -238,6 +242,36 @@
       "size": 5396906,
       "added": "2026-09-27",
       "preview": "previews/it_cyber_glasses.webp"
+    },
+    {
+      "id": "ai_anime_sakura_shrine",
+      "title": "Храм под сакурой",
+      "category": "anime",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine.mp4",
+      "thumb": "thumbs/ai_anime_sakura_shrine.jpg",
+      "preview": "previews/ai_anime_sakura_shrine.webp",
+      "size": 7464318,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "ai_anime_tokyo_rain",
+      "title": "Дождливый Токио",
+      "category": "anime",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_tokyo_rain.mp4",
+      "thumb": "thumbs/ai_anime_tokyo_rain.jpg",
+      "preview": "previews/ai_anime_tokyo_rain.webp",
+      "size": 12505039,
+      "added": "2026-09-27"
+    },
+    {
+      "id": "ai_game_moon_castle",
+      "title": "Замок под луной",
+      "category": "games",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_game_moon_castle.mp4",
+      "thumb": "thumbs/ai_game_moon_castle.jpg",
+      "preview": "previews/ai_game_moon_castle.webp",
+      "size": 7375947,
+      "added": "2026-09-27"
     },
     {
       "id": "game_voxel_night",
