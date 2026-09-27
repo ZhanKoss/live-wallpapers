@@ -79,6 +79,130 @@
       ]
     },
     {
+      "id": "err_sysfail",
+      "title": "SYSTEM FAILURE",
+      "category": "it",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/err_sysfail.mp4",
+      "thumb": "thumbs/err_sysfail.jpg",
+      "preview": "previews/err_sysfail.webp",
+      "size": 10322841,
+      "rev": "be27f269ff",
+      "added": "2026-09-28",
+      "layers": [
+        {
+          "type": "video",
+          "depth": -0.35,
+          "blend": "normal",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/err_sysfail__far.mp4"
+        },
+        {
+          "type": "video",
+          "depth": 0.4,
+          "blend": "add",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/err_sysfail__mid.mp4"
+        },
+        {
+          "type": "video",
+          "depth": 1.0,
+          "blend": "add",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/err_sysfail__near.mp4"
+        }
+      ]
+    },
+    {
+      "id": "err_denied",
+      "title": "ACCESS DENIED",
+      "category": "it",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/err_denied.mp4",
+      "thumb": "thumbs/err_denied.jpg",
+      "preview": "previews/err_denied.webp",
+      "size": 7797481,
+      "rev": "3e76fbcbc5",
+      "added": "2026-09-28",
+      "layers": [
+        {
+          "type": "video",
+          "depth": -0.35,
+          "blend": "normal",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/err_denied__far.mp4"
+        },
+        {
+          "type": "video",
+          "depth": 0.4,
+          "blend": "add",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/err_denied__mid.mp4"
+        },
+        {
+          "type": "video",
+          "depth": 1.0,
+          "blend": "add",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/err_denied__near.mp4"
+        }
+      ]
+    },
+    {
+      "id": "err_zhandos",
+      "title": "ZHANDOS.EXE",
+      "category": "it",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/err_zhandos.mp4",
+      "thumb": "thumbs/err_zhandos.jpg",
+      "preview": "previews/err_zhandos.webp",
+      "size": 10200326,
+      "rev": "57f6acca5d",
+      "added": "2026-09-28",
+      "layers": [
+        {
+          "type": "video",
+          "depth": -0.35,
+          "blend": "normal",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/err_zhandos__far.mp4"
+        },
+        {
+          "type": "video",
+          "depth": 0.4,
+          "blend": "add",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/err_zhandos__mid.mp4"
+        },
+        {
+          "type": "video",
+          "depth": 1.0,
+          "blend": "add",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/err_zhandos__near.mp4"
+        }
+      ]
+    },
+    {
+      "id": "err_gameover",
+      "title": "GAME OVER",
+      "category": "it",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/err_gameover.mp4",
+      "thumb": "thumbs/err_gameover.jpg",
+      "preview": "previews/err_gameover.webp",
+      "size": 9338954,
+      "rev": "e2b94eccd5",
+      "added": "2026-09-28",
+      "layers": [
+        {
+          "type": "video",
+          "depth": -0.35,
+          "blend": "normal",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/err_gameover__far.mp4"
+        },
+        {
+          "type": "video",
+          "depth": 0.4,
+          "blend": "add",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/err_gameover__mid.mp4"
+        },
+        {
+          "type": "video",
+          "depth": 1.0,
+          "blend": "add",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/err_gameover__near.mp4"
+        }
+      ]
+    },
+    {
       "id": "glitch_jump_red",
       "title": "Глитч-код",
       "category": "it",
