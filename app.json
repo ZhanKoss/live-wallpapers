@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "3.0",
-  "apk": "https://github.com/ZhanKoss/live-wallpapers/releases/download/v3.0/VideoWallpaper.apk",
-  "notes": "Обновление приложения прямо из приложения"
+  "versionCode": 4,
+  "versionName": "4.0",
+  "apk": "https://github.com/ZhanKoss/live-wallpapers/releases/download/v4.0/VideoWallpaper.apk",
+  "notes": "Новый дизайн Umbrix: меню, избранное, предпросмотр видео и индикатор загрузки"
 }
