@@ -2,24 +2,32 @@
   "version": 1,
   "categories": [
     {
+      "id": "it",
+      "title": "IT"
+    },
+    {
+      "id": "cyber",
+      "title": "Киберпанк"
+    },
+    {
+      "id": "games",
+      "title": "Игры"
+    },
+    {
       "id": "anime",
       "title": "Аниме"
     },
     {
-      "id": "nature",
-      "title": "Природа"
-    },
-    {
-      "id": "city",
-      "title": "Ночной город"
+      "id": "space",
+      "title": "Космос"
     },
     {
       "id": "neon",
       "title": "Неон"
     },
     {
-      "id": "cyber",
-      "title": "Киберпанк"
+      "id": "city",
+      "title": "Ночной город"
     },
     {
       "id": "fire",
@@ -30,794 +38,15 @@
       "title": "Абстракция"
     },
     {
-      "id": "space",
-      "title": "Космос"
-    },
-    {
       "id": "mood",
       "title": "Атмосфера"
     },
     {
-      "id": "it",
-      "title": "IT"
-    },
-    {
-      "id": "games",
-      "title": "Игры"
+      "id": "nature",
+      "title": "Природа"
     }
   ],
   "wallpapers": [
-    {
-      "id": "ai_anime_tokyo_rain",
-      "title": "Дождливый Токио",
-      "category": "anime",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_tokyo_rain.mp4",
-      "thumb": "thumbs/ai_anime_tokyo_rain.jpg",
-      "preview": "previews/ai_anime_tokyo_rain.webp",
-      "size": 12243034,
-      "added": "2026-09-27",
-      "layers": [
-        {
-          "type": "image",
-          "depth": -0.45,
-          "blend": "normal",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_tokyo_rain__bg.jpg"
-        },
-        {
-          "type": "image",
-          "depth": 1.0,
-          "blend": "alpha",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_tokyo_rain__fg.webp"
-        },
-        {
-          "type": "video",
-          "depth": 1.25,
-          "blend": "add",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_tokyo_rain__fx.mp4"
-        }
-      ]
-    },
-    {
-      "id": "ai_anime_sakura_shrine",
-      "title": "Храм под сакурой",
-      "category": "anime",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine.mp4",
-      "thumb": "thumbs/ai_anime_sakura_shrine.jpg",
-      "preview": "previews/ai_anime_sakura_shrine.webp",
-      "size": 6614686,
-      "added": "2026-09-27",
-      "layers": [
-        {
-          "type": "image",
-          "depth": -0.45,
-          "blend": "normal",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine__bg.jpg"
-        },
-        {
-          "type": "image",
-          "depth": 0.35,
-          "blend": "alpha",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine__mid.webp"
-        },
-        {
-          "type": "image",
-          "depth": 1.0,
-          "blend": "alpha",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine__fg.webp"
-        },
-        {
-          "type": "video",
-          "depth": 1.25,
-          "blend": "add",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine__fx.mp4"
-        }
-      ]
-    },
-    {
-      "id": "nature_turquoise_waves",
-      "title": "Бирюзовые волны",
-      "category": "nature",
-      "video": "videos/nature_turquoise_waves.mp4",
-      "thumb": "thumbs/nature_turquoise_waves.jpg",
-      "size": 13434754,
-      "added": "2026-09-27",
-      "preview": "previews/nature_turquoise_waves.webp"
-    },
-    {
-      "id": "nature_ocean_rocks",
-      "title": "Прибой сверху",
-      "category": "nature",
-      "video": "videos/nature_ocean_rocks.mp4",
-      "thumb": "thumbs/nature_ocean_rocks.jpg",
-      "size": 16333273,
-      "added": "2026-09-27",
-      "preview": "previews/nature_ocean_rocks.webp"
-    },
-    {
-      "id": "nature_palm_sun",
-      "title": "Пальма на закате",
-      "category": "nature",
-      "video": "videos/nature_palm_sun.mp4",
-      "thumb": "thumbs/nature_palm_sun.jpg",
-      "size": 17328160,
-      "added": "2026-09-27",
-      "preview": "previews/nature_palm_sun.webp"
-    },
-    {
-      "id": "nature_sunset_palms",
-      "title": "Солнце за пальмами",
-      "category": "nature",
-      "video": "videos/nature_sunset_palms.mp4",
-      "thumb": "thumbs/nature_sunset_palms.jpg",
-      "size": 8843218,
-      "added": "2026-09-27",
-      "preview": "previews/nature_sunset_palms.webp"
-    },
-    {
-      "id": "nature_smoke",
-      "title": "Дым",
-      "category": "nature",
-      "video": "videos/nature_smoke.mp4",
-      "thumb": "thumbs/nature_smoke.jpg",
-      "size": 8221489,
-      "added": "2026-09-27",
-      "preview": "previews/nature_smoke.webp"
-    },
-    {
-      "id": "nature_flames",
-      "title": "Пламя",
-      "category": "nature",
-      "video": "videos/nature_flames.mp4",
-      "thumb": "thumbs/nature_flames.jpg",
-      "size": 4937580,
-      "added": "2026-09-27",
-      "preview": "previews/nature_flames.webp"
-    },
-    {
-      "id": "city_skyscrapers_night",
-      "title": "Небоскрёбы ночью",
-      "category": "city",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_skyscrapers_night.mp4",
-      "thumb": "thumbs/city_skyscrapers_night.jpg",
-      "size": 5668789,
-      "added": "2026-09-27",
-      "preview": "previews/city_skyscrapers_night.webp"
-    },
-    {
-      "id": "city_night_windows",
-      "title": "Окна ночного города",
-      "category": "city",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_night_windows.mp4",
-      "thumb": "thumbs/city_night_windows.jpg",
-      "size": 2847206,
-      "added": "2026-09-27",
-      "preview": "previews/city_night_windows.webp"
-    },
-    {
-      "id": "city_from_above",
-      "title": "Ночной город с высоты",
-      "category": "city",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_from_above.mp4",
-      "thumb": "thumbs/city_from_above.jpg",
-      "size": 8313426,
-      "added": "2026-09-27",
-      "preview": "previews/city_from_above.webp"
-    },
-    {
-      "id": "city_lit_tower",
-      "title": "Башня в огнях",
-      "category": "city",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_lit_tower.mp4",
-      "thumb": "thumbs/city_lit_tower.jpg",
-      "size": 3161461,
-      "added": "2026-09-27",
-      "preview": "previews/city_lit_tower.webp"
-    },
-    {
-      "id": "city_glass_tower",
-      "title": "Стеклянный небоскрёб",
-      "category": "city",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_glass_tower.mp4",
-      "thumb": "thumbs/city_glass_tower.jpg",
-      "size": 3202260,
-      "added": "2026-09-27",
-      "preview": "previews/city_glass_tower.webp"
-    },
-    {
-      "id": "city_avenue_above",
-      "title": "Ночной проспект сверху",
-      "category": "city",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_avenue_above.mp4",
-      "thumb": "thumbs/city_avenue_above.jpg",
-      "size": 5919469,
-      "added": "2026-09-27",
-      "preview": "previews/city_avenue_above.webp"
-    },
-    {
-      "id": "city_panorama",
-      "title": "Ночная панорама",
-      "category": "city",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_panorama.mp4",
-      "thumb": "thumbs/city_panorama.jpg",
-      "size": 7005328,
-      "added": "2026-09-27",
-      "preview": "previews/city_panorama.webp"
-    },
-    {
-      "id": "city_night_highway",
-      "title": "Ночное шоссе",
-      "category": "city",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_night_highway.mp4",
-      "thumb": "thumbs/city_night_highway.jpg",
-      "size": 5938029,
-      "added": "2026-09-27",
-      "preview": "previews/city_night_highway.webp"
-    },
-    {
-      "id": "city_neon_sign",
-      "title": "Неоновая вывеска",
-      "category": "city",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_neon_sign.mp4",
-      "thumb": "thumbs/city_neon_sign.jpg",
-      "size": 1567136,
-      "added": "2026-09-27",
-      "preview": "previews/city_neon_sign.webp"
-    },
-    {
-      "id": "city_of_power",
-      "title": "City of Power",
-      "category": "city",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_of_power.mp4",
-      "thumb": "thumbs/city_of_power.jpg",
-      "size": 4136586,
-      "added": "2026-09-27",
-      "preview": "previews/city_of_power.webp"
-    },
-    {
-      "id": "neon_laser_show",
-      "title": "Лазерное шоу",
-      "category": "neon",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/neon_laser_show.mp4",
-      "thumb": "thumbs/neon_laser_show.jpg",
-      "size": 9078872,
-      "added": "2026-09-27",
-      "preview": "previews/neon_laser_show.webp"
-    },
-    {
-      "id": "neon_blue_lasers",
-      "title": "Синие лазеры",
-      "category": "neon",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/neon_blue_lasers.mp4",
-      "thumb": "thumbs/neon_blue_lasers.jpg",
-      "size": 7676751,
-      "added": "2026-09-27",
-      "preview": "previews/neon_blue_lasers.webp"
-    },
-    {
-      "id": "neon_laser_triangle",
-      "title": "Лазерный треугольник",
-      "category": "neon",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/neon_laser_triangle.mp4",
-      "thumb": "thumbs/neon_laser_triangle.jpg",
-      "size": 5438038,
-      "added": "2026-09-27",
-      "preview": "previews/neon_laser_triangle.webp"
-    },
-    {
-      "id": "neon_green_beams",
-      "title": "Зелёные лучи",
-      "category": "neon",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/neon_green_beams.mp4",
-      "thumb": "thumbs/neon_green_beams.jpg",
-      "size": 3169144,
-      "added": "2026-09-27",
-      "preview": "previews/neon_green_beams.webp"
-    },
-    {
-      "id": "cyber_rain_alley",
-      "title": "Неоновый переулок",
-      "category": "cyber",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/cyber_rain_alley.mp4",
-      "thumb": "thumbs/cyber_rain_alley.jpg",
-      "preview": "previews/cyber_rain_alley.webp",
-      "size": 1518901,
-      "rev": "ee797af87a",
-      "added": "2026-09-27"
-    },
-    {
-      "id": "cyber_skyline",
-      "title": "Город будущего",
-      "category": "cyber",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/cyber_skyline.mp4",
-      "thumb": "thumbs/cyber_skyline.jpg",
-      "preview": "previews/cyber_skyline.webp",
-      "size": 3945128,
-      "rev": "6251c6273d",
-      "added": "2026-09-27"
-    },
-    {
-      "id": "cyber_server_hall",
-      "title": "Серверный зал",
-      "category": "cyber",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/cyber_server_hall.mp4",
-      "thumb": "thumbs/cyber_server_hall.jpg",
-      "preview": "previews/cyber_server_hall.webp",
-      "size": 2364194,
-      "rev": "96100184b1",
-      "added": "2026-09-27"
-    },
-    {
-      "id": "fire_tongues",
-      "title": "Огненные языки",
-      "category": "fire",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_tongues.mp4",
-      "thumb": "thumbs/fire_tongues.jpg",
-      "size": 4193881,
-      "added": "2026-09-27",
-      "preview": "previews/fire_tongues.webp"
-    },
-    {
-      "id": "fire_from_below",
-      "title": "Пламя снизу",
-      "category": "fire",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_from_below.mp4",
-      "thumb": "thumbs/fire_from_below.jpg",
-      "size": 5319910,
-      "added": "2026-09-27",
-      "preview": "previews/fire_from_below.webp"
-    },
-    {
-      "id": "fire_flashes",
-      "title": "Огненные всполохи",
-      "category": "fire",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_flashes.mp4",
-      "thumb": "thumbs/fire_flashes.jpg",
-      "size": 2957293,
-      "added": "2026-09-27",
-      "preview": "previews/fire_flashes.webp"
-    },
-    {
-      "id": "fire_embers",
-      "title": "Угли",
-      "category": "fire",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_embers.mp4",
-      "thumb": "thumbs/fire_embers.jpg",
-      "size": 2347217,
-      "added": "2026-09-27",
-      "preview": "previews/fire_embers.webp"
-    },
-    {
-      "id": "fire_bonfire",
-      "title": "Костёр",
-      "category": "fire",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_bonfire.mp4",
-      "thumb": "thumbs/fire_bonfire.jpg",
-      "size": 7518243,
-      "added": "2026-09-27",
-      "preview": "previews/fire_bonfire.webp"
-    },
-    {
-      "id": "fire_pillars",
-      "title": "Огненные столбы",
-      "category": "fire",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_pillars.mp4",
-      "thumb": "thumbs/fire_pillars.jpg",
-      "size": 11410477,
-      "added": "2026-09-27",
-      "preview": "previews/fire_pillars.webp"
-    },
-    {
-      "id": "fire_lonely_flame",
-      "title": "Одинокое пламя",
-      "category": "fire",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_lonely_flame.mp4",
-      "thumb": "thumbs/fire_lonely_flame.jpg",
-      "size": 7159963,
-      "added": "2026-09-27",
-      "preview": "previews/fire_lonely_flame.webp"
-    },
-    {
-      "id": "fire_wild",
-      "title": "Буйное пламя",
-      "category": "fire",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_wild.mp4",
-      "thumb": "thumbs/fire_wild.jpg",
-      "size": 8330400,
-      "added": "2026-09-27",
-      "preview": "previews/fire_wild.webp"
-    },
-    {
-      "id": "abstract_bokeh",
-      "title": "Боке огней",
-      "category": "abstract",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_bokeh.mp4",
-      "thumb": "thumbs/abstract_bokeh.jpg",
-      "size": 2988334,
-      "added": "2026-09-27",
-      "preview": "previews/abstract_bokeh.webp"
-    },
-    {
-      "id": "abstract_pool_water",
-      "title": "Вода в бассейне",
-      "category": "abstract",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_pool_water.mp4",
-      "thumb": "thumbs/abstract_pool_water.jpg",
-      "size": 5788038,
-      "added": "2026-09-27",
-      "preview": "previews/abstract_pool_water.webp"
-    },
-    {
-      "id": "abstract_symmetric_smoke",
-      "title": "Симметричный дым",
-      "category": "abstract",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_symmetric_smoke.mp4",
-      "thumb": "thumbs/abstract_symmetric_smoke.jpg",
-      "size": 8160082,
-      "added": "2026-09-27",
-      "preview": "previews/abstract_symmetric_smoke.webp"
-    },
-    {
-      "id": "abstract_teal_haze",
-      "title": "Бирюзовая дымка",
-      "category": "abstract",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_teal_haze.mp4",
-      "thumb": "thumbs/abstract_teal_haze.jpg",
-      "size": 10755405,
-      "added": "2026-09-27",
-      "preview": "previews/abstract_teal_haze.webp"
-    },
-    {
-      "id": "abstract_color_dust",
-      "title": "Цветная пыль",
-      "category": "abstract",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_color_dust.mp4",
-      "thumb": "thumbs/abstract_color_dust.jpg",
-      "size": 15090338,
-      "added": "2026-09-27",
-      "preview": "previews/abstract_color_dust.webp"
-    },
-    {
-      "id": "abstract_paint_burst",
-      "title": "Взрыв красок",
-      "category": "abstract",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_paint_burst.mp4",
-      "thumb": "thumbs/abstract_paint_burst.jpg",
-      "size": 5842974,
-      "added": "2026-09-27",
-      "preview": "previews/abstract_paint_burst.webp"
-    },
-    {
-      "id": "abstract_liquid_paint",
-      "title": "Жидкие краски",
-      "category": "abstract",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_liquid_paint.mp4",
-      "thumb": "thumbs/abstract_liquid_paint.jpg",
-      "size": 3958657,
-      "added": "2026-09-27",
-      "preview": "previews/abstract_liquid_paint.webp"
-    },
-    {
-      "id": "abstract_water_stream",
-      "title": "Струя воды",
-      "category": "abstract",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_water_stream.mp4",
-      "thumb": "thumbs/abstract_water_stream.jpg",
-      "size": 3279205,
-      "added": "2026-09-27",
-      "preview": "previews/abstract_water_stream.webp"
-    },
-    {
-      "id": "abstract_thin_smoke",
-      "title": "Тонкий дым",
-      "category": "abstract",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_thin_smoke.mp4",
-      "thumb": "thumbs/abstract_thin_smoke.jpg",
-      "size": 6475069,
-      "added": "2026-09-27",
-      "preview": "previews/abstract_thin_smoke.webp"
-    },
-    {
-      "id": "space_weic2332a",
-      "title": "Уран глазами Уэбба",
-      "category": "space",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_weic2332a.mp4",
-      "thumb": "thumbs/space_weic2332a.jpg",
-      "preview": "previews/space_weic2332a.webp",
-      "size": 2569246,
-      "rev": "bed5b7cef2",
-      "added": "2026-09-27",
-      "credit": "NASA, ESA, CSA, STScI, N. Bartmann (ESA/Webb) Music: Stellardrone - Twilight — CC BY 4.0"
-    },
-    {
-      "id": "space_hubble_earth_4k_hubble",
-      "title": "Хаббл на орбите",
-      "category": "space",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_hubble_earth_4k_hubble.mp4",
-      "thumb": "thumbs/space_hubble_earth_4k_hubble.jpg",
-      "preview": "previews/space_hubble_earth_4k_hubble.webp",
-      "size": 8198177,
-      "rev": "e816e4e779",
-      "added": "2026-09-27",
-      "credit": "M. Kornmesser( ESA/Hubble ) — CC BY 4.0"
-    },
-    {
-      "id": "space_hubble_earth_4k_rising",
-      "title": "Рассвет на орбите",
-      "category": "space",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_hubble_earth_4k_rising.mp4",
-      "thumb": "thumbs/space_hubble_earth_4k_rising.jpg",
-      "preview": "previews/space_hubble_earth_4k_rising.webp",
-      "size": 5984467,
-      "rev": "5fa735d5a7",
-      "added": "2026-09-27",
-      "credit": "M. Kornmesser( ESA/Hubble ) — CC BY 4.0"
-    },
-    {
-      "id": "space_hubble_earth_4k_flyby",
-      "title": "Телескоп над Землёй",
-      "category": "space",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_hubble_earth_4k_flyby.mp4",
-      "thumb": "thumbs/space_hubble_earth_4k_flyby.jpg",
-      "preview": "previews/space_hubble_earth_4k_flyby.webp",
-      "size": 4082456,
-      "rev": "e42310ade9",
-      "added": "2026-09-27",
-      "credit": "M. Kornmesser( ESA/Hubble ) — CC BY 4.0"
-    },
-    {
-      "id": "space_hst15_sl9_crash",
-      "title": "Комета и Юпитер",
-      "category": "space",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_hst15_sl9_crash.mp4",
-      "thumb": "thumbs/space_hst15_sl9_crash.jpg",
-      "preview": "previews/space_hst15_sl9_crash.webp",
-      "size": 4631685,
-      "rev": "1a92ceb17d",
-      "added": "2026-09-27",
-      "credit": "ESA / Hubble (M. Kornmesser & L. L. Christensen) — CC BY 4.0"
-    },
-    {
-      "id": "space_heic1916c",
-      "title": "Экзопланета K2-18b",
-      "category": "space",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_heic1916c.mp4",
-      "thumb": "thumbs/space_heic1916c.jpg",
-      "preview": "previews/space_heic1916c.webp",
-      "size": 1954026,
-      "rev": "7c6a50f963",
-      "added": "2026-09-27",
-      "credit": "ESA/Hubble, M. Kornmesser — CC BY 4.0"
-    },
-    {
-      "id": "space_heic1112h",
-      "title": "Горизонт планеты",
-      "category": "space",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_heic1112h.mp4",
-      "thumb": "thumbs/space_heic1112h.jpg",
-      "preview": "previews/space_heic1112h.webp",
-      "size": 726094,
-      "rev": "d85a49aeda",
-      "added": "2026-09-27",
-      "credit": "ESA/Hubble (M. Kornmesser). — CC BY 4.0"
-    },
-    {
-      "id": "space_heic0720d",
-      "title": "Горячий юпитер",
-      "category": "space",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_heic0720d.mp4",
-      "thumb": "thumbs/space_heic0720d.jpg",
-      "preview": "previews/space_heic0720d.webp",
-      "size": 6874310,
-      "rev": "84ab7e9528",
-      "added": "2026-09-27",
-      "credit": "ESA / Hubble (M. Kornmesser & L. L. Christensen) — CC BY 4.0"
-    },
-    {
-      "id": "space_earth_m",
-      "title": "Облака над Землёй",
-      "category": "space",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_earth_m.mp4",
-      "thumb": "thumbs/space_earth_m.jpg",
-      "preview": "previews/space_earth_m.webp",
-      "size": 6593388,
-      "rev": "15246a4fde",
-      "added": "2026-09-27",
-      "credit": "ESA / Hubble (M. Kornmesser & L. L. Christensen) — CC BY 4.0"
-    },
-    {
-      "id": "space_earth_n",
-      "title": "Ночная Земля",
-      "category": "space",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_earth_n.mp4",
-      "thumb": "thumbs/space_earth_n.jpg",
-      "preview": "previews/space_earth_n.webp",
-      "size": 1002777,
-      "rev": "14f20faec7",
-      "added": "2026-09-27",
-      "credit": "ESA/Hubble (M. Kornmesser) — CC BY 4.0"
-    },
-    {
-      "id": "space_earth_h",
-      "title": "Земля из космоса",
-      "category": "space",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_earth_h.mp4",
-      "thumb": "thumbs/space_earth_h.jpg",
-      "preview": "previews/space_earth_h.webp",
-      "size": 4776705,
-      "rev": "82f25c4859",
-      "added": "2026-09-27",
-      "credit": "ESA / Hubble (M. Kornmesser & L. L. Christensen) — CC BY 4.0"
-    },
-    {
-      "id": "space_astro_bk",
-      "title": "Кольца планеты",
-      "category": "space",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_astro_bk.mp4",
-      "thumb": "thumbs/space_astro_bk.jpg",
-      "preview": "previews/space_astro_bk.webp",
-      "size": 2224472,
-      "rev": "d73ce20c1d",
-      "added": "2026-09-27",
-      "credit": "ESA / Hubble (M. Kornmesser & L. L. Christensen) — CC BY 4.0"
-    },
-    {
-      "id": "space_uhd_tl_babak_04_moonv",
-      "title": "Лунная ночь",
-      "category": "space",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_uhd_tl_babak_04_moonv.mp4",
-      "thumb": "thumbs/space_uhd_tl_babak_04_moonv.jpg",
-      "preview": "previews/space_uhd_tl_babak_04_moonv.webp",
-      "size": 7381016,
-      "rev": "a67c28fbbb",
-      "added": "2026-09-27",
-      "credit": "ESO/ B. Tafreshi — CC BY 4.0"
-    },
-    {
-      "id": "space_paranaltimelapse12p",
-      "title": "Млечный Путь над горами",
-      "category": "space",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_paranaltimelapse12p.mp4",
-      "thumb": "thumbs/space_paranaltimelapse12p.jpg",
-      "preview": "previews/space_paranaltimelapse12p.webp",
-      "size": 7543130,
-      "rev": "0c6374bc7c",
-      "added": "2026-09-27",
-      "credit": "ESO/C. Malin ( christophmalin.com ) — CC BY 4.0"
-    },
-    {
-      "id": "space_uhd_bt_alma_01_volc",
-      "title": "Небо над вулканом",
-      "category": "space",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_uhd_bt_alma_01_volc.mp4",
-      "thumb": "thumbs/space_uhd_bt_alma_01_volc.jpg",
-      "preview": "previews/space_uhd_bt_alma_01_volc.webp",
-      "size": 4890579,
-      "rev": "cea825e7bf",
-      "added": "2026-09-27",
-      "credit": "ALMA (ESO/NAOJ/NRAO)/B.Tafreshi — CC BY 4.0"
-    },
-    {
-      "id": "space_paranaltimelapse12q",
-      "title": "Луна над Паранальем",
-      "category": "space",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_paranaltimelapse12q.mp4",
-      "thumb": "thumbs/space_paranaltimelapse12q.jpg",
-      "preview": "previews/space_paranaltimelapse12q.webp",
-      "size": 3226115,
-      "rev": "832045fff2",
-      "added": "2026-09-27",
-      "credit": "ESO/C. Malin ( christophmalin.com ) — CC BY 4.0"
-    },
-    {
-      "id": "space_paranaltimelapse12_2d",
-      "title": "Ночь в Атакаме",
-      "category": "space",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_paranaltimelapse12_2d.mp4",
-      "thumb": "thumbs/space_paranaltimelapse12_2d.jpg",
-      "preview": "previews/space_paranaltimelapse12_2d.webp",
-      "size": 7754723,
-      "rev": "29c5deae8c",
-      "added": "2026-09-27",
-      "credit": "ESO/C. Malin ( christophmalin.com ) — CC BY 4.0"
-    },
-    {
-      "id": "space_exoplanet_barnard_1_v2",
-      "title": "Планета у звезды Барнарда",
-      "category": "space",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_exoplanet_barnard_1_v2.mp4",
-      "thumb": "thumbs/space_exoplanet_barnard_1_v2.jpg",
-      "preview": "previews/space_exoplanet_barnard_1_v2.webp",
-      "size": 2512710,
-      "rev": "142361aab1",
-      "added": "2026-09-27",
-      "credit": "ESO/M. Kornmesser — CC BY 4.0"
-    },
-    {
-      "id": "space_moon_phases_2",
-      "title": "Фазы Земли",
-      "category": "space",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_moon_phases_2.mp4",
-      "thumb": "thumbs/space_moon_phases_2.jpg",
-      "preview": "previews/space_moon_phases_2.webp",
-      "size": 849448,
-      "rev": "18188d8ea9",
-      "added": "2026-09-27",
-      "credit": "ESO — CC BY 4.0"
-    },
-    {
-      "id": "space_eso2108b",
-      "title": "Астероид у Солнца",
-      "category": "space",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_eso2108b.mp4",
-      "thumb": "thumbs/space_eso2108b.jpg",
-      "preview": "previews/space_eso2108b.webp",
-      "size": 11404999,
-      "rev": "0541f08d38",
-      "added": "2026-09-27",
-      "credit": "ESO/M. Kornmesser — CC BY 4.0"
-    },
-    {
-      "id": "space_eso1706e",
-      "title": "Система TRAPPIST-1",
-      "category": "space",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_eso1706e.mp4",
-      "thumb": "thumbs/space_eso1706e.jpg",
-      "preview": "previews/space_eso1706e.webp",
-      "size": 3396128,
-      "rev": "75b1ab3844",
-      "added": "2026-09-27",
-      "credit": "ESO/L. Calçada/ spaceengine.org — CC BY 4.0"
-    },
-    {
-      "id": "mood_cat_eye",
-      "title": "Кошачий глаз",
-      "category": "mood",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/mood_cat_eye.mp4",
-      "thumb": "thumbs/mood_cat_eye.jpg",
-      "size": 4968995,
-      "added": "2026-09-27",
-      "preview": "previews/mood_cat_eye.webp"
-    },
-    {
-      "id": "mood_moon_trees",
-      "title": "Луна за деревьями",
-      "category": "mood",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/mood_moon_trees.mp4",
-      "thumb": "thumbs/mood_moon_trees.jpg",
-      "size": 4951900,
-      "added": "2026-09-27",
-      "preview": "previews/mood_moon_trees.webp"
-    },
-    {
-      "id": "mood_candles",
-      "title": "Свечи",
-      "category": "mood",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/mood_candles.mp4",
-      "thumb": "thumbs/mood_candles.jpg",
-      "size": 3039781,
-      "added": "2026-09-27",
-      "preview": "previews/mood_candles.webp"
-    },
-    {
-      "id": "mood_chess_king",
-      "title": "Шахматный король",
-      "category": "mood",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/mood_chess_king.mp4",
-      "thumb": "thumbs/mood_chess_king.jpg",
-      "size": 1838279,
-      "added": "2026-09-27",
-      "preview": "previews/mood_chess_king.webp"
-    },
-    {
-      "id": "mood_chess",
-      "title": "Шахматы",
-      "category": "mood",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/mood_chess.mp4",
-      "thumb": "thumbs/mood_chess.jpg",
-      "size": 2650095,
-      "added": "2026-09-27",
-      "preview": "previews/mood_chess.webp"
-    },
     {
       "id": "itf_circuit_red",
       "title": "Импульсы платы",
@@ -1294,6 +523,39 @@
       "preview": "previews/it_cyber_glasses.webp"
     },
     {
+      "id": "cyber_rain_alley",
+      "title": "Неоновый переулок",
+      "category": "cyber",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/cyber_rain_alley.mp4",
+      "thumb": "thumbs/cyber_rain_alley.jpg",
+      "preview": "previews/cyber_rain_alley.webp",
+      "size": 1518901,
+      "rev": "ee797af87a",
+      "added": "2026-09-27"
+    },
+    {
+      "id": "cyber_skyline",
+      "title": "Город будущего",
+      "category": "cyber",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/cyber_skyline.mp4",
+      "thumb": "thumbs/cyber_skyline.jpg",
+      "preview": "previews/cyber_skyline.webp",
+      "size": 3945128,
+      "rev": "6251c6273d",
+      "added": "2026-09-27"
+    },
+    {
+      "id": "cyber_server_hall",
+      "title": "Серверный зал",
+      "category": "cyber",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/cyber_server_hall.mp4",
+      "thumb": "thumbs/cyber_server_hall.jpg",
+      "preview": "previews/cyber_server_hall.webp",
+      "size": 2364194,
+      "rev": "96100184b1",
+      "added": "2026-09-27"
+    },
+    {
       "id": "game_outrun_sunset",
       "title": "Ретро-закат",
       "category": "games",
@@ -1465,6 +727,744 @@
       "size": 2283569,
       "added": "2026-09-27",
       "preview": "previews/game_snake_cyan.webp"
+    },
+    {
+      "id": "ai_anime_tokyo_rain",
+      "title": "Дождливый Токио",
+      "category": "anime",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_tokyo_rain.mp4",
+      "thumb": "thumbs/ai_anime_tokyo_rain.jpg",
+      "preview": "previews/ai_anime_tokyo_rain.webp",
+      "size": 12243034,
+      "added": "2026-09-27",
+      "layers": [
+        {
+          "type": "image",
+          "depth": -0.45,
+          "blend": "normal",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_tokyo_rain__bg.jpg"
+        },
+        {
+          "type": "image",
+          "depth": 1.0,
+          "blend": "alpha",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_tokyo_rain__fg.webp"
+        },
+        {
+          "type": "video",
+          "depth": 1.25,
+          "blend": "add",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_tokyo_rain__fx.mp4"
+        }
+      ]
+    },
+    {
+      "id": "ai_anime_sakura_shrine",
+      "title": "Храм под сакурой",
+      "category": "anime",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine.mp4",
+      "thumb": "thumbs/ai_anime_sakura_shrine.jpg",
+      "preview": "previews/ai_anime_sakura_shrine.webp",
+      "size": 6614686,
+      "added": "2026-09-27",
+      "layers": [
+        {
+          "type": "image",
+          "depth": -0.45,
+          "blend": "normal",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine__bg.jpg"
+        },
+        {
+          "type": "image",
+          "depth": 0.35,
+          "blend": "alpha",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine__mid.webp"
+        },
+        {
+          "type": "image",
+          "depth": 1.0,
+          "blend": "alpha",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine__fg.webp"
+        },
+        {
+          "type": "video",
+          "depth": 1.25,
+          "blend": "add",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine__fx.mp4"
+        }
+      ]
+    },
+    {
+      "id": "space_weic2332a",
+      "title": "Уран глазами Уэбба",
+      "category": "space",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_weic2332a.mp4",
+      "thumb": "thumbs/space_weic2332a.jpg",
+      "preview": "previews/space_weic2332a.webp",
+      "size": 2569246,
+      "rev": "bed5b7cef2",
+      "added": "2026-09-27",
+      "credit": "NASA, ESA, CSA, STScI, N. Bartmann (ESA/Webb) Music: Stellardrone - Twilight — CC BY 4.0"
+    },
+    {
+      "id": "space_hubble_earth_4k_hubble",
+      "title": "Хаббл на орбите",
+      "category": "space",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_hubble_earth_4k_hubble.mp4",
+      "thumb": "thumbs/space_hubble_earth_4k_hubble.jpg",
+      "preview": "previews/space_hubble_earth_4k_hubble.webp",
+      "size": 8198177,
+      "rev": "e816e4e779",
+      "added": "2026-09-27",
+      "credit": "M. Kornmesser( ESA/Hubble ) — CC BY 4.0"
+    },
+    {
+      "id": "space_hubble_earth_4k_rising",
+      "title": "Рассвет на орбите",
+      "category": "space",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_hubble_earth_4k_rising.mp4",
+      "thumb": "thumbs/space_hubble_earth_4k_rising.jpg",
+      "preview": "previews/space_hubble_earth_4k_rising.webp",
+      "size": 5984467,
+      "rev": "5fa735d5a7",
+      "added": "2026-09-27",
+      "credit": "M. Kornmesser( ESA/Hubble ) — CC BY 4.0"
+    },
+    {
+      "id": "space_hubble_earth_4k_flyby",
+      "title": "Телескоп над Землёй",
+      "category": "space",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_hubble_earth_4k_flyby.mp4",
+      "thumb": "thumbs/space_hubble_earth_4k_flyby.jpg",
+      "preview": "previews/space_hubble_earth_4k_flyby.webp",
+      "size": 4082456,
+      "rev": "e42310ade9",
+      "added": "2026-09-27",
+      "credit": "M. Kornmesser( ESA/Hubble ) — CC BY 4.0"
+    },
+    {
+      "id": "space_hst15_sl9_crash",
+      "title": "Комета и Юпитер",
+      "category": "space",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_hst15_sl9_crash.mp4",
+      "thumb": "thumbs/space_hst15_sl9_crash.jpg",
+      "preview": "previews/space_hst15_sl9_crash.webp",
+      "size": 4631685,
+      "rev": "1a92ceb17d",
+      "added": "2026-09-27",
+      "credit": "ESA / Hubble (M. Kornmesser & L. L. Christensen) — CC BY 4.0"
+    },
+    {
+      "id": "space_heic1916c",
+      "title": "Экзопланета K2-18b",
+      "category": "space",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_heic1916c.mp4",
+      "thumb": "thumbs/space_heic1916c.jpg",
+      "preview": "previews/space_heic1916c.webp",
+      "size": 1954026,
+      "rev": "7c6a50f963",
+      "added": "2026-09-27",
+      "credit": "ESA/Hubble, M. Kornmesser — CC BY 4.0"
+    },
+    {
+      "id": "space_heic1112h",
+      "title": "Горизонт планеты",
+      "category": "space",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_heic1112h.mp4",
+      "thumb": "thumbs/space_heic1112h.jpg",
+      "preview": "previews/space_heic1112h.webp",
+      "size": 726094,
+      "rev": "d85a49aeda",
+      "added": "2026-09-27",
+      "credit": "ESA/Hubble (M. Kornmesser). — CC BY 4.0"
+    },
+    {
+      "id": "space_heic0720d",
+      "title": "Горячий юпитер",
+      "category": "space",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_heic0720d.mp4",
+      "thumb": "thumbs/space_heic0720d.jpg",
+      "preview": "previews/space_heic0720d.webp",
+      "size": 6874310,
+      "rev": "84ab7e9528",
+      "added": "2026-09-27",
+      "credit": "ESA / Hubble (M. Kornmesser & L. L. Christensen) — CC BY 4.0"
+    },
+    {
+      "id": "space_earth_m",
+      "title": "Облака над Землёй",
+      "category": "space",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_earth_m.mp4",
+      "thumb": "thumbs/space_earth_m.jpg",
+      "preview": "previews/space_earth_m.webp",
+      "size": 6593388,
+      "rev": "15246a4fde",
+      "added": "2026-09-27",
+      "credit": "ESA / Hubble (M. Kornmesser & L. L. Christensen) — CC BY 4.0"
+    },
+    {
+      "id": "space_earth_n",
+      "title": "Ночная Земля",
+      "category": "space",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_earth_n.mp4",
+      "thumb": "thumbs/space_earth_n.jpg",
+      "preview": "previews/space_earth_n.webp",
+      "size": 1002777,
+      "rev": "14f20faec7",
+      "added": "2026-09-27",
+      "credit": "ESA/Hubble (M. Kornmesser) — CC BY 4.0"
+    },
+    {
+      "id": "space_earth_h",
+      "title": "Земля из космоса",
+      "category": "space",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_earth_h.mp4",
+      "thumb": "thumbs/space_earth_h.jpg",
+      "preview": "previews/space_earth_h.webp",
+      "size": 4776705,
+      "rev": "82f25c4859",
+      "added": "2026-09-27",
+      "credit": "ESA / Hubble (M. Kornmesser & L. L. Christensen) — CC BY 4.0"
+    },
+    {
+      "id": "space_astro_bk",
+      "title": "Кольца планеты",
+      "category": "space",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_astro_bk.mp4",
+      "thumb": "thumbs/space_astro_bk.jpg",
+      "preview": "previews/space_astro_bk.webp",
+      "size": 2224472,
+      "rev": "d73ce20c1d",
+      "added": "2026-09-27",
+      "credit": "ESA / Hubble (M. Kornmesser & L. L. Christensen) — CC BY 4.0"
+    },
+    {
+      "id": "space_uhd_tl_babak_04_moonv",
+      "title": "Лунная ночь",
+      "category": "space",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_uhd_tl_babak_04_moonv.mp4",
+      "thumb": "thumbs/space_uhd_tl_babak_04_moonv.jpg",
+      "preview": "previews/space_uhd_tl_babak_04_moonv.webp",
+      "size": 7381016,
+      "rev": "a67c28fbbb",
+      "added": "2026-09-27",
+      "credit": "ESO/ B. Tafreshi — CC BY 4.0"
+    },
+    {
+      "id": "space_paranaltimelapse12p",
+      "title": "Млечный Путь над горами",
+      "category": "space",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_paranaltimelapse12p.mp4",
+      "thumb": "thumbs/space_paranaltimelapse12p.jpg",
+      "preview": "previews/space_paranaltimelapse12p.webp",
+      "size": 7543130,
+      "rev": "0c6374bc7c",
+      "added": "2026-09-27",
+      "credit": "ESO/C. Malin ( christophmalin.com ) — CC BY 4.0"
+    },
+    {
+      "id": "space_uhd_bt_alma_01_volc",
+      "title": "Небо над вулканом",
+      "category": "space",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_uhd_bt_alma_01_volc.mp4",
+      "thumb": "thumbs/space_uhd_bt_alma_01_volc.jpg",
+      "preview": "previews/space_uhd_bt_alma_01_volc.webp",
+      "size": 4890579,
+      "rev": "cea825e7bf",
+      "added": "2026-09-27",
+      "credit": "ALMA (ESO/NAOJ/NRAO)/B.Tafreshi — CC BY 4.0"
+    },
+    {
+      "id": "space_paranaltimelapse12q",
+      "title": "Луна над Паранальем",
+      "category": "space",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_paranaltimelapse12q.mp4",
+      "thumb": "thumbs/space_paranaltimelapse12q.jpg",
+      "preview": "previews/space_paranaltimelapse12q.webp",
+      "size": 3226115,
+      "rev": "832045fff2",
+      "added": "2026-09-27",
+      "credit": "ESO/C. Malin ( christophmalin.com ) — CC BY 4.0"
+    },
+    {
+      "id": "space_paranaltimelapse12_2d",
+      "title": "Ночь в Атакаме",
+      "category": "space",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_paranaltimelapse12_2d.mp4",
+      "thumb": "thumbs/space_paranaltimelapse12_2d.jpg",
+      "preview": "previews/space_paranaltimelapse12_2d.webp",
+      "size": 7754723,
+      "rev": "29c5deae8c",
+      "added": "2026-09-27",
+      "credit": "ESO/C. Malin ( christophmalin.com ) — CC BY 4.0"
+    },
+    {
+      "id": "space_exoplanet_barnard_1_v2",
+      "title": "Планета у звезды Барнарда",
+      "category": "space",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_exoplanet_barnard_1_v2.mp4",
+      "thumb": "thumbs/space_exoplanet_barnard_1_v2.jpg",
+      "preview": "previews/space_exoplanet_barnard_1_v2.webp",
+      "size": 2512710,
+      "rev": "142361aab1",
+      "added": "2026-09-27",
+      "credit": "ESO/M. Kornmesser — CC BY 4.0"
+    },
+    {
+      "id": "space_moon_phases_2",
+      "title": "Фазы Земли",
+      "category": "space",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_moon_phases_2.mp4",
+      "thumb": "thumbs/space_moon_phases_2.jpg",
+      "preview": "previews/space_moon_phases_2.webp",
+      "size": 849448,
+      "rev": "18188d8ea9",
+      "added": "2026-09-27",
+      "credit": "ESO — CC BY 4.0"
+    },
+    {
+      "id": "space_eso2108b",
+      "title": "Астероид у Солнца",
+      "category": "space",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_eso2108b.mp4",
+      "thumb": "thumbs/space_eso2108b.jpg",
+      "preview": "previews/space_eso2108b.webp",
+      "size": 11404999,
+      "rev": "0541f08d38",
+      "added": "2026-09-27",
+      "credit": "ESO/M. Kornmesser — CC BY 4.0"
+    },
+    {
+      "id": "space_eso1706e",
+      "title": "Система TRAPPIST-1",
+      "category": "space",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/space_eso1706e.mp4",
+      "thumb": "thumbs/space_eso1706e.jpg",
+      "preview": "previews/space_eso1706e.webp",
+      "size": 3396128,
+      "rev": "75b1ab3844",
+      "added": "2026-09-27",
+      "credit": "ESO/L. Calçada/ spaceengine.org — CC BY 4.0"
+    },
+    {
+      "id": "neon_laser_show",
+      "title": "Лазерное шоу",
+      "category": "neon",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/neon_laser_show.mp4",
+      "thumb": "thumbs/neon_laser_show.jpg",
+      "size": 9078872,
+      "added": "2026-09-27",
+      "preview": "previews/neon_laser_show.webp"
+    },
+    {
+      "id": "neon_blue_lasers",
+      "title": "Синие лазеры",
+      "category": "neon",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/neon_blue_lasers.mp4",
+      "thumb": "thumbs/neon_blue_lasers.jpg",
+      "size": 7676751,
+      "added": "2026-09-27",
+      "preview": "previews/neon_blue_lasers.webp"
+    },
+    {
+      "id": "neon_laser_triangle",
+      "title": "Лазерный треугольник",
+      "category": "neon",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/neon_laser_triangle.mp4",
+      "thumb": "thumbs/neon_laser_triangle.jpg",
+      "size": 5438038,
+      "added": "2026-09-27",
+      "preview": "previews/neon_laser_triangle.webp"
+    },
+    {
+      "id": "neon_green_beams",
+      "title": "Зелёные лучи",
+      "category": "neon",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/neon_green_beams.mp4",
+      "thumb": "thumbs/neon_green_beams.jpg",
+      "size": 3169144,
+      "added": "2026-09-27",
+      "preview": "previews/neon_green_beams.webp"
+    },
+    {
+      "id": "city_skyscrapers_night",
+      "title": "Небоскрёбы ночью",
+      "category": "city",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_skyscrapers_night.mp4",
+      "thumb": "thumbs/city_skyscrapers_night.jpg",
+      "size": 5668789,
+      "added": "2026-09-27",
+      "preview": "previews/city_skyscrapers_night.webp"
+    },
+    {
+      "id": "city_night_windows",
+      "title": "Окна ночного города",
+      "category": "city",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_night_windows.mp4",
+      "thumb": "thumbs/city_night_windows.jpg",
+      "size": 2847206,
+      "added": "2026-09-27",
+      "preview": "previews/city_night_windows.webp"
+    },
+    {
+      "id": "city_from_above",
+      "title": "Ночной город с высоты",
+      "category": "city",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_from_above.mp4",
+      "thumb": "thumbs/city_from_above.jpg",
+      "size": 8313426,
+      "added": "2026-09-27",
+      "preview": "previews/city_from_above.webp"
+    },
+    {
+      "id": "city_lit_tower",
+      "title": "Башня в огнях",
+      "category": "city",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_lit_tower.mp4",
+      "thumb": "thumbs/city_lit_tower.jpg",
+      "size": 3161461,
+      "added": "2026-09-27",
+      "preview": "previews/city_lit_tower.webp"
+    },
+    {
+      "id": "city_glass_tower",
+      "title": "Стеклянный небоскрёб",
+      "category": "city",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_glass_tower.mp4",
+      "thumb": "thumbs/city_glass_tower.jpg",
+      "size": 3202260,
+      "added": "2026-09-27",
+      "preview": "previews/city_glass_tower.webp"
+    },
+    {
+      "id": "city_avenue_above",
+      "title": "Ночной проспект сверху",
+      "category": "city",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_avenue_above.mp4",
+      "thumb": "thumbs/city_avenue_above.jpg",
+      "size": 5919469,
+      "added": "2026-09-27",
+      "preview": "previews/city_avenue_above.webp"
+    },
+    {
+      "id": "city_panorama",
+      "title": "Ночная панорама",
+      "category": "city",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_panorama.mp4",
+      "thumb": "thumbs/city_panorama.jpg",
+      "size": 7005328,
+      "added": "2026-09-27",
+      "preview": "previews/city_panorama.webp"
+    },
+    {
+      "id": "city_night_highway",
+      "title": "Ночное шоссе",
+      "category": "city",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_night_highway.mp4",
+      "thumb": "thumbs/city_night_highway.jpg",
+      "size": 5938029,
+      "added": "2026-09-27",
+      "preview": "previews/city_night_highway.webp"
+    },
+    {
+      "id": "city_neon_sign",
+      "title": "Неоновая вывеска",
+      "category": "city",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_neon_sign.mp4",
+      "thumb": "thumbs/city_neon_sign.jpg",
+      "size": 1567136,
+      "added": "2026-09-27",
+      "preview": "previews/city_neon_sign.webp"
+    },
+    {
+      "id": "city_of_power",
+      "title": "City of Power",
+      "category": "city",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/city_of_power.mp4",
+      "thumb": "thumbs/city_of_power.jpg",
+      "size": 4136586,
+      "added": "2026-09-27",
+      "preview": "previews/city_of_power.webp"
+    },
+    {
+      "id": "fire_tongues",
+      "title": "Огненные языки",
+      "category": "fire",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_tongues.mp4",
+      "thumb": "thumbs/fire_tongues.jpg",
+      "size": 4193881,
+      "added": "2026-09-27",
+      "preview": "previews/fire_tongues.webp"
+    },
+    {
+      "id": "fire_from_below",
+      "title": "Пламя снизу",
+      "category": "fire",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_from_below.mp4",
+      "thumb": "thumbs/fire_from_below.jpg",
+      "size": 5319910,
+      "added": "2026-09-27",
+      "preview": "previews/fire_from_below.webp"
+    },
+    {
+      "id": "fire_flashes",
+      "title": "Огненные всполохи",
+      "category": "fire",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_flashes.mp4",
+      "thumb": "thumbs/fire_flashes.jpg",
+      "size": 2957293,
+      "added": "2026-09-27",
+      "preview": "previews/fire_flashes.webp"
+    },
+    {
+      "id": "fire_embers",
+      "title": "Угли",
+      "category": "fire",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_embers.mp4",
+      "thumb": "thumbs/fire_embers.jpg",
+      "size": 2347217,
+      "added": "2026-09-27",
+      "preview": "previews/fire_embers.webp"
+    },
+    {
+      "id": "fire_bonfire",
+      "title": "Костёр",
+      "category": "fire",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_bonfire.mp4",
+      "thumb": "thumbs/fire_bonfire.jpg",
+      "size": 7518243,
+      "added": "2026-09-27",
+      "preview": "previews/fire_bonfire.webp"
+    },
+    {
+      "id": "fire_pillars",
+      "title": "Огненные столбы",
+      "category": "fire",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_pillars.mp4",
+      "thumb": "thumbs/fire_pillars.jpg",
+      "size": 11410477,
+      "added": "2026-09-27",
+      "preview": "previews/fire_pillars.webp"
+    },
+    {
+      "id": "fire_lonely_flame",
+      "title": "Одинокое пламя",
+      "category": "fire",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_lonely_flame.mp4",
+      "thumb": "thumbs/fire_lonely_flame.jpg",
+      "size": 7159963,
+      "added": "2026-09-27",
+      "preview": "previews/fire_lonely_flame.webp"
+    },
+    {
+      "id": "fire_wild",
+      "title": "Буйное пламя",
+      "category": "fire",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/fire_wild.mp4",
+      "thumb": "thumbs/fire_wild.jpg",
+      "size": 8330400,
+      "added": "2026-09-27",
+      "preview": "previews/fire_wild.webp"
+    },
+    {
+      "id": "abstract_bokeh",
+      "title": "Боке огней",
+      "category": "abstract",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_bokeh.mp4",
+      "thumb": "thumbs/abstract_bokeh.jpg",
+      "size": 2988334,
+      "added": "2026-09-27",
+      "preview": "previews/abstract_bokeh.webp"
+    },
+    {
+      "id": "abstract_pool_water",
+      "title": "Вода в бассейне",
+      "category": "abstract",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_pool_water.mp4",
+      "thumb": "thumbs/abstract_pool_water.jpg",
+      "size": 5788038,
+      "added": "2026-09-27",
+      "preview": "previews/abstract_pool_water.webp"
+    },
+    {
+      "id": "abstract_symmetric_smoke",
+      "title": "Симметричный дым",
+      "category": "abstract",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_symmetric_smoke.mp4",
+      "thumb": "thumbs/abstract_symmetric_smoke.jpg",
+      "size": 8160082,
+      "added": "2026-09-27",
+      "preview": "previews/abstract_symmetric_smoke.webp"
+    },
+    {
+      "id": "abstract_teal_haze",
+      "title": "Бирюзовая дымка",
+      "category": "abstract",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_teal_haze.mp4",
+      "thumb": "thumbs/abstract_teal_haze.jpg",
+      "size": 10755405,
+      "added": "2026-09-27",
+      "preview": "previews/abstract_teal_haze.webp"
+    },
+    {
+      "id": "abstract_color_dust",
+      "title": "Цветная пыль",
+      "category": "abstract",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_color_dust.mp4",
+      "thumb": "thumbs/abstract_color_dust.jpg",
+      "size": 15090338,
+      "added": "2026-09-27",
+      "preview": "previews/abstract_color_dust.webp"
+    },
+    {
+      "id": "abstract_paint_burst",
+      "title": "Взрыв красок",
+      "category": "abstract",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_paint_burst.mp4",
+      "thumb": "thumbs/abstract_paint_burst.jpg",
+      "size": 5842974,
+      "added": "2026-09-27",
+      "preview": "previews/abstract_paint_burst.webp"
+    },
+    {
+      "id": "abstract_liquid_paint",
+      "title": "Жидкие краски",
+      "category": "abstract",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_liquid_paint.mp4",
+      "thumb": "thumbs/abstract_liquid_paint.jpg",
+      "size": 3958657,
+      "added": "2026-09-27",
+      "preview": "previews/abstract_liquid_paint.webp"
+    },
+    {
+      "id": "abstract_water_stream",
+      "title": "Струя воды",
+      "category": "abstract",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_water_stream.mp4",
+      "thumb": "thumbs/abstract_water_stream.jpg",
+      "size": 3279205,
+      "added": "2026-09-27",
+      "preview": "previews/abstract_water_stream.webp"
+    },
+    {
+      "id": "abstract_thin_smoke",
+      "title": "Тонкий дым",
+      "category": "abstract",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/abstract_thin_smoke.mp4",
+      "thumb": "thumbs/abstract_thin_smoke.jpg",
+      "size": 6475069,
+      "added": "2026-09-27",
+      "preview": "previews/abstract_thin_smoke.webp"
+    },
+    {
+      "id": "mood_cat_eye",
+      "title": "Кошачий глаз",
+      "category": "mood",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/mood_cat_eye.mp4",
+      "thumb": "thumbs/mood_cat_eye.jpg",
+      "size": 4968995,
+      "added": "2026-09-27",
+      "preview": "previews/mood_cat_eye.webp"
+    },
+    {
+      "id": "mood_moon_trees",
+      "title": "Луна за деревьями",
+      "category": "mood",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/mood_moon_trees.mp4",
+      "thumb": "thumbs/mood_moon_trees.jpg",
+      "size": 4951900,
+      "added": "2026-09-27",
+      "preview": "previews/mood_moon_trees.webp"
+    },
+    {
+      "id": "mood_candles",
+      "title": "Свечи",
+      "category": "mood",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/mood_candles.mp4",
+      "thumb": "thumbs/mood_candles.jpg",
+      "size": 3039781,
+      "added": "2026-09-27",
+      "preview": "previews/mood_candles.webp"
+    },
+    {
+      "id": "mood_chess_king",
+      "title": "Шахматный король",
+      "category": "mood",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/mood_chess_king.mp4",
+      "thumb": "thumbs/mood_chess_king.jpg",
+      "size": 1838279,
+      "added": "2026-09-27",
+      "preview": "previews/mood_chess_king.webp"
+    },
+    {
+      "id": "mood_chess",
+      "title": "Шахматы",
+      "category": "mood",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/mood_chess.mp4",
+      "thumb": "thumbs/mood_chess.jpg",
+      "size": 2650095,
+      "added": "2026-09-27",
+      "preview": "previews/mood_chess.webp"
+    },
+    {
+      "id": "nature_turquoise_waves",
+      "title": "Бирюзовые волны",
+      "category": "nature",
+      "video": "videos/nature_turquoise_waves.mp4",
+      "thumb": "thumbs/nature_turquoise_waves.jpg",
+      "size": 13434754,
+      "added": "2026-09-27",
+      "preview": "previews/nature_turquoise_waves.webp"
+    },
+    {
+      "id": "nature_ocean_rocks",
+      "title": "Прибой сверху",
+      "category": "nature",
+      "video": "videos/nature_ocean_rocks.mp4",
+      "thumb": "thumbs/nature_ocean_rocks.jpg",
+      "size": 16333273,
+      "added": "2026-09-27",
+      "preview": "previews/nature_ocean_rocks.webp"
+    },
+    {
+      "id": "nature_palm_sun",
+      "title": "Пальма на закате",
+      "category": "nature",
+      "video": "videos/nature_palm_sun.mp4",
+      "thumb": "thumbs/nature_palm_sun.jpg",
+      "size": 17328160,
+      "added": "2026-09-27",
+      "preview": "previews/nature_palm_sun.webp"
+    },
+    {
+      "id": "nature_sunset_palms",
+      "title": "Солнце за пальмами",
+      "category": "nature",
+      "video": "videos/nature_sunset_palms.mp4",
+      "thumb": "thumbs/nature_sunset_palms.jpg",
+      "size": 8843218,
+      "added": "2026-09-27",
+      "preview": "previews/nature_sunset_palms.webp"
+    },
+    {
+      "id": "nature_smoke",
+      "title": "Дым",
+      "category": "nature",
+      "video": "videos/nature_smoke.mp4",
+      "thumb": "thumbs/nature_smoke.jpg",
+      "size": 8221489,
+      "added": "2026-09-27",
+      "preview": "previews/nature_smoke.webp"
+    },
+    {
+      "id": "nature_flames",
+      "title": "Пламя",
+      "category": "nature",
+      "video": "videos/nature_flames.mp4",
+      "thumb": "thumbs/nature_flames.jpg",
+      "size": 4937580,
+      "added": "2026-09-27",
+      "preview": "previews/nature_flames.webp"
     }
   ]
 }
