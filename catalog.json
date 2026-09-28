@@ -2,6 +2,10 @@
   "version": 1,
   "categories": [
     {
+      "id": "anime",
+      "title": "Аниме"
+    },
+    {
       "id": "it",
       "title": "IT"
     },
@@ -12,10 +16,6 @@
     {
       "id": "games",
       "title": "Игры"
-    },
-    {
-      "id": "anime",
-      "title": "Аниме"
     },
     {
       "id": "space",
@@ -68,6 +68,72 @@
       "size": 2690690,
       "rev": "74b8cd523d",
       "added": "2026-09-28"
+    },
+    {
+      "id": "ai_anime_tokyo_rain",
+      "title": "Дождливый Токио",
+      "category": "anime",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_tokyo_rain.mp4",
+      "thumb": "thumbs/ai_anime_tokyo_rain.jpg",
+      "preview": "previews/ai_anime_tokyo_rain.webp",
+      "size": 12243034,
+      "added": "2026-09-27",
+      "layers": [
+        {
+          "type": "image",
+          "depth": -0.45,
+          "blend": "normal",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_tokyo_rain__bg.jpg"
+        },
+        {
+          "type": "image",
+          "depth": 1.0,
+          "blend": "alpha",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_tokyo_rain__fg.webp"
+        },
+        {
+          "type": "video",
+          "depth": 1.25,
+          "blend": "add",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_tokyo_rain__fx.mp4"
+        }
+      ]
+    },
+    {
+      "id": "ai_anime_sakura_shrine",
+      "title": "Храм под сакурой",
+      "category": "anime",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine.mp4",
+      "thumb": "thumbs/ai_anime_sakura_shrine.jpg",
+      "preview": "previews/ai_anime_sakura_shrine.webp",
+      "size": 6614686,
+      "added": "2026-09-27",
+      "layers": [
+        {
+          "type": "image",
+          "depth": -0.45,
+          "blend": "normal",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine__bg.jpg"
+        },
+        {
+          "type": "image",
+          "depth": 0.35,
+          "blend": "alpha",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine__mid.webp"
+        },
+        {
+          "type": "image",
+          "depth": 1.0,
+          "blend": "alpha",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine__fg.webp"
+        },
+        {
+          "type": "video",
+          "depth": 1.25,
+          "blend": "add",
+          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine__fx.mp4"
+        }
+      ]
     },
     {
       "id": "itf_circuit_red",
@@ -749,72 +815,6 @@
       "size": 2283569,
       "added": "2026-09-27",
       "preview": "previews/game_snake_cyan.webp"
-    },
-    {
-      "id": "ai_anime_tokyo_rain",
-      "title": "Дождливый Токио",
-      "category": "anime",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_tokyo_rain.mp4",
-      "thumb": "thumbs/ai_anime_tokyo_rain.jpg",
-      "preview": "previews/ai_anime_tokyo_rain.webp",
-      "size": 12243034,
-      "added": "2026-09-27",
-      "layers": [
-        {
-          "type": "image",
-          "depth": -0.45,
-          "blend": "normal",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_tokyo_rain__bg.jpg"
-        },
-        {
-          "type": "image",
-          "depth": 1.0,
-          "blend": "alpha",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_tokyo_rain__fg.webp"
-        },
-        {
-          "type": "video",
-          "depth": 1.25,
-          "blend": "add",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_tokyo_rain__fx.mp4"
-        }
-      ]
-    },
-    {
-      "id": "ai_anime_sakura_shrine",
-      "title": "Храм под сакурой",
-      "category": "anime",
-      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine.mp4",
-      "thumb": "thumbs/ai_anime_sakura_shrine.jpg",
-      "preview": "previews/ai_anime_sakura_shrine.webp",
-      "size": 6614686,
-      "added": "2026-09-27",
-      "layers": [
-        {
-          "type": "image",
-          "depth": -0.45,
-          "blend": "normal",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine__bg.jpg"
-        },
-        {
-          "type": "image",
-          "depth": 0.35,
-          "blend": "alpha",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine__mid.webp"
-        },
-        {
-          "type": "image",
-          "depth": 1.0,
-          "blend": "alpha",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine__fg.webp"
-        },
-        {
-          "type": "video",
-          "depth": 1.25,
-          "blend": "add",
-          "src": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/ai_anime_sakura_shrine__fx.mp4"
-        }
-      ]
     },
     {
       "id": "space_weic2332a",
