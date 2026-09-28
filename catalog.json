@@ -48,6 +48,17 @@
   ],
   "wallpapers": [
     {
+      "id": "anime_curtain_girl",
+      "title": "Девушка из тьмы",
+      "category": "anime",
+      "video": "https://github.com/ZhanKoss/live-wallpapers/releases/download/videos/anime_curtain_girl.mp4",
+      "thumb": "thumbs/anime_curtain_girl.jpg",
+      "preview": "previews/anime_curtain_girl.webp",
+      "size": 2690690,
+      "rev": "74b8cd523d",
+      "added": "2026-09-28"
+    },
+    {
       "id": "itf_circuit_red",
       "title": "Импульсы платы",
       "category": "it",
